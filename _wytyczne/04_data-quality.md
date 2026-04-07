@@ -42,7 +42,7 @@ wersja: 2.0
 | 4E.3 | begin_checkout wdrożone | Wysoki | ecommerce | raw-data → zdarzenia → begin_checkout obecny | Tak | Brak begin_checkout | 3 |  |
 | 4E.4 | purchase wdrożone | Wysoki | ecommerce | raw-data → zdarzenia → purchase obecny | Tak | Brak purchase = brak śledzenia sprzedaży | 3 |  |
 | 4E.5 | Lejek wygląda naturalnie | Wysoki | ecommerce | raw-data → lejek: purchase < begin_checkout < add_to_cart < view_item | Każdy krok mniej niż poprzedni | purchase > begin_checkout = duplikacja | 3 |  |
-| 4E.6 | AOV naturalny i spójny | Średni | ecommerce | raw-data → purchaseRevenue / transactions = AOV | AOV >0, spójny per kanał | AOV (not set) >>2× średniej = problem atrybucji | 2 |  |
+| 4E.6 | AOV naturalny i spójny | Średni | ecommerce | raw-data → purchaseRevenue / transactions = AOV | AOV >0, spójny per kanał, per urządzenia | AOV (not set) >>2× średniej = problem atrybucji | 2 |  |
 
 ---
 

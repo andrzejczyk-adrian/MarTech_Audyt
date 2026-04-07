@@ -20,6 +20,8 @@ warunek_wejscia: ecommerce z 4 zdarzeniami GA4: view_item add_to_cart begin_chec
 | 7.2 | CR paid ≥50% CR organic | Wysoki | ecommerce+ads | raw-data → CR(CPC) / CR(organic) | CR paid / CR organic ≥0.5 | CR paid <30% CR organic = słaba jakość ruchu płatnego | 2 |  |
 | 7.3 | Brak kanału z CR <0.1% przy wydatkach >1000 PLN | Wysoki | ecommerce+ads | raw-data → CR per kanał + wydatki z BDOS | Żaden kanał płatny z CR <0.1% | Kanał płatny z setkami PLN i CR bliskim 0 | 2 |  |
 | 7.4 | Checkout drop-off ≤40% | Wysoki | ecommerce | raw-data → begin_checkout → purchase: oblicz % przejścia | begin_checkout → purchase ≥60% | Przejście <40% = problem z bramką lub UX kasy | 2 |  |
+| 7.5 | Lejek wygląda naturalnie | Wysoki | ecommerce | raw-data → zdarzenia → view_item add_to_cart begin_checkout purchase oblicz CR% na poszczególnych krokach | CR% jest poniżej 100% na każdym z kroków od add to cart do purchase | zdarzenia mają podejrzanie wysokie CR co może wskazywać na błąd w tagowaniu, duplikaty zdarzeń |  |  |
+| 7.5 | Liczba zdarzeń na użytkownika | Wysoki | all | raw-data → zdarzenia | Zweryfikuj liczbę zdarzeń na użytkownika, czy nie widzisz nieprawidłowości |  |  |  |
 
 ---
 
