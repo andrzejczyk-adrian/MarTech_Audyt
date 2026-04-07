@@ -35,15 +35,15 @@ WYKONANE_DIR = Path(__file__).parent.parent / "wykonane"
 
 # Mapowanie: nazwa arkusza Sheets → plik MD
 SHEET_TO_FILE = {
-    "Infrastruktura śledzenia": "01_audyt-wstepny.md",
+    "Infrastruktura sledzenia": "01_audyt-wstepny.md",
     "RODO i Consent Mode": "02_eprivacy.md",
     "Konfiguracja GTM i GA4": "03_konfiguracja.md",
-    "Jakość danych": "04_data-quality.md",
+    "Jakosc danych": "04_data-quality.md",
     "Oznaczenia UTM": "05_utm.md",
-    "Analiza produktów (BCG)": "06_bcg.md",
+    "Analiza produktow BCG": "06_bcg.md",
     "Lejki zakupowe": "07_lejki.md",
     "GA4 i Google Ads": "08_ga4-ads.md",
-    "Analiza wyników": "09_analiza.md",
+    "Analiza wynikow": "09_analiza.md",
     "Google Ads": "10_google-ads.md",
 }
 

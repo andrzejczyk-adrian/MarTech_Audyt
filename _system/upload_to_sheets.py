@@ -17,15 +17,15 @@ SERVICE_ACCOUNT_FILE = str(Path(__file__).parent.parent.parent.parent / "keys" /
 WYTYCZNE_DIR = Path(__file__).parent.parent / "_wytyczne"
 
 FILE_TO_SHEET = {
-    "01_audyt-wstepny.md": "Infrastruktura śledzenia",
+    "01_audyt-wstepny.md": "Infrastruktura sledzenia",
     "02_eprivacy.md": "RODO i Consent Mode",
     "03_konfiguracja.md": "Konfiguracja GTM i GA4",
-    "04_data-quality.md": "Jakość danych",
+    "04_data-quality.md": "Jakosc danych",
     "05_utm.md": "Oznaczenia UTM",
-    "06_bcg.md": "Analiza produktów (BCG)",
+    "06_bcg.md": "Analiza produktow BCG",
     "07_lejki.md": "Lejki zakupowe",
     "08_ga4-ads.md": "GA4 i Google Ads",
-    "09_analiza.md": "Analiza wyników",
+    "09_analiza.md": "Analiza wynikow",
     "10_google-ads.md": "Google Ads",
 }
 
