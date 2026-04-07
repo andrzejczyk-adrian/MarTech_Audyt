@@ -156,18 +156,18 @@ Agent automatycznie pomija kryteria gdzie `dotyczy` nie pasuje do klienta → oz
 
 ### Sekcje i liczba kryteriów (łącznie: 193)
 
-| Sekcja | Opis | Kryteria |
-|--------|------|---------|
-| 1 | Audyt Wstępny (GTM, DL, Clarity, integracje) | 29 |
-| 2 | ePrivacy / Consent Mode | 20 |
-| 3 | Konfiguracja GTM + GA4 Admin + BQ | 46 |
-| 4 | Data Quality | 28 |
-| 5 | UTM | 10 |
-| 6 | Macierz BCG | 5 |
-| 7 | Lejki per kampania | 4 |
-| 8 | GA4 ↔ Google Ads | 10 |
-| 9 | Analiza danych | 10 |
-| 10 | Audyt Google Ads | 31 |
+| Sekcja | Nazwa | Co sprawdzamy | Kryteria |
+|--------|-------|---------------|---------|
+| **1** | **Audyt Wstępny** | Czy infrastruktura śledzenia jest zdrowa? Kolejność skryptów HTML, DataLayer, GTM, Tag Assistant, TagHound, wstępna weryfikacja Consent Mode, brak UA. Integracje: Meta Pixel, LinkedIn, Pinterest, TikTok, Hotjar, Criteo, RTB House, Allegro. **Microsoft Clarity** (5 sub-kryteriów: instalacja, nagrania, maskowanie PII, połączenie GA4, Consent). | 29 |
+| **2** | **ePrivacy / Consent Mode** | Czy baner cookies jest zgodny z RODO? Blokowanie cookies po odmowie, brak danych wrażliwych w GA4, url_passthrough, PING w Consent Mode, ustawienia zgód w GTM, brak odświeżenia strony po zgodzie. Wymiar prawny — błędy = ryzyko kary 4% obrotu. | 20 |
+| **3** | **Konfiguracja GTM + GA4 + BQ** | Czy GTM i GA4 są poprawnie skonfigurowane? GTM Web (Conversion Linker, consent, UA cleanup, container health), GTM Server Side (sGTM, GCP, custom domain, cookies 1st party), GA4 Admin (Signals, User-ID, filtry ruchu, cross-domain, bramki płatności, waluta, alerty), połączenia (Google Ads, BigQuery, Search Console). BigQuery Export Audit (świeżość, duplikaty, jakość items[], źródła ruchu). | 46 |
+| **4** | **Data Quality** | Czy danym w GA4 można ufać? Udział (not set) w źródłach ruchu, bramki płatności w referral, fragmentacja Meta, duplikaty transaction_id, brak transactionId, struktura e-commerce events (view_item → purchase), naturalność lejka zakupowego, AOV. | 28 |
+| **5** | **UTM** | Czy kampanie płatne są poprawnie oznaczone? Standaryzacja UTM, Google Ads (source/medium + kampanie), Meta Ads (UTM + ID kampanii), email marketing, wizytówka Google, organiczne social media, inne kanały płatne. | 10 |
+| **6** | **Macierz BCG** | Czy budżet w kampaniach feedowych jest alokowany wg potencjału produktów? Klasyfikacja produktów: Gwiazdy/Dojne Krowy/Znaki Zapytania/Psy. Segmentacja asset groups, wykluczenia Psów, delta Ads vs GA4. _Tylko e-commerce z feedem._ | 5 |
+| **7** | **Lejki per kampania** | Na którym etapie ścieżki zakupowej odpada ruch z poszczególnych kanałów? view_item → add_to_cart → begin_checkout → purchase per kanał (Paid Search, Shopping, PMax, Organic). CR paid vs CR organic, checkout drop-off. _Tylko e-commerce._ | 4 |
+| **8** | **GA4 ↔ Google Ads** | Czy połączenie GA4 z Google Ads działa i konwersje są skonfigurowane poprawnie? Delta przychodów GA4 vs Ads (<15% OK), Primary/Secondary konwersja, Enhanced Conversions (match rate >40%), duplikacja śledzenia, listy odbiorców, Customer Match. | 10 |
+| **9** | **Analiza danych** | Co mówią dane o efektywności? CVR paid vs organic, mobile/desktop CVR ratio, porzucenie koszyka, anomalie ruchu, ruch wewnętrzny niezfiltrowany, retencja kupujących, referral z wysokim CVR (quick wins), bramki/webmaile w referral. | 10 |
+| **10** | **Audyt Google Ads** | Czy konto Google Ads jest dobrze skonfigurowane i efektywne? Kampanie bez konwersji (drenaż), brand vs non-brand, auto-apply wyłączone, konwersje Primary+dynamiczne, bidding (target ROAS, Learning period), PMax (segmentacja AG, BCG, wykluczenia, negatywy), Search (brand IS, RSA, negatywy), geo (PRESENCE), feed (Eligible >90%, tytuły), Quality Score, ROAS <1×. | 31 |
 
 ### System punktacji
 

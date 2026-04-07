@@ -35,16 +35,16 @@ WYKONANE_DIR = Path(__file__).parent.parent / "wykonane"
 
 # Mapowanie: nazwa arkusza Sheets → plik MD
 SHEET_TO_FILE = {
-    "Sekcja 1": "01_audyt-wstepny.md",
-    "Sekcja 2": "02_eprivacy.md",
-    "Sekcja 3": "03_konfiguracja.md",
-    "Sekcja 4": "04_data-quality.md",
-    "Sekcja 5": "05_utm.md",
-    "Sekcja 6": "06_bcg.md",
-    "Sekcja 7": "07_lejki.md",
-    "Sekcja 8": "08_ga4-ads.md",
-    "Sekcja 9": "09_analiza.md",
-    "Sekcja 10": "10_google-ads.md",
+    "Infrastruktura śledzenia": "01_audyt-wstepny.md",
+    "RODO i Consent Mode": "02_eprivacy.md",
+    "Konfiguracja GTM i GA4": "03_konfiguracja.md",
+    "Jakość danych": "04_data-quality.md",
+    "Oznaczenia UTM": "05_utm.md",
+    "Analiza produktów (BCG)": "06_bcg.md",
+    "Lejki zakupowe": "07_lejki.md",
+    "GA4 i Google Ads": "08_ga4-ads.md",
+    "Analiza wyników": "09_analiza.md",
+    "Google Ads": "10_google-ads.md",
 }
 
 # Kolumny wymagane w Sheets (kolejność musi się zgadzać)
