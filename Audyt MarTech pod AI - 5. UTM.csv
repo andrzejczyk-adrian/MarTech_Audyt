@@ -1,0 +1,13 @@
+Zakres usługi,Priorytet,Opis warunku prawidłowego
+,,
+UTM,,
+Jest przygotowana standaryzacja UTM,niski,"Firma posiada utworzone standardy budowania UTM lub widzimy konsekwencję w UTM w GA4. Nie mamy np. 2 różnych nazw dla Meta, FB, Facebook, fb, facebook itd."
+Google Ads stosuje UTM source/medium,Wysoki,W Google Ads stosujemy UTM dla source i medium
+Google Ads posiada UTM dla kampanii i niżej,Wysoki,Dodatkowo w Google Ads jest wdrożony skrypt przekazujący wartość dla kampanii
+FB Ads posiada UTM,Wysoki,Na FB jest wdrożne śledzenie UTM oraz te śledzenie jest spójne i wystandaryzowane. 
+Na FB przekazywane są ID kampanii lub reklam,średni,W UTM przekazujemy ID na potrzeby późniejszych zaawansowanych prac na danych
+Organiczne so-me posiadają UTM,średni,Wszystkie linki organiczne posiadają UTMy
+E-mail marketing posiada UTM,średni,Wszystkie kampanie email marketingu posiadają UTM. Nie mamy źródeł ruchu typu wp.pl
+Wizytówka Google posiada UTM,średni,Wizytówka Google posiada UTM
+Linki w SEO - mają UTMy,średni,Wykupując linki w SEO stosuje się UTM
+Pozostałe linki płatne i organiczne posiadają UTM,średni,W organizacji każde działanie inbound i outbound marketingu stosuje UTMy

@@ -1,0 +1,131 @@
+Zakres usługi,Priorytet,Opis warunku prawidłowego
+,,
+Konfiguracja GTM,,
+Walidacja,Wysoki,"GTM jest zaimplementowany w sposób prawidłowy, znajduje się u góry strony. Kod nie budzi zastrzeżeń."
+Powiadomienia i błędy,Wysoki,W GTM nie mamy komunikatów o błędach
+Ustawienia consent tagów,Wysoki,Każdy z tagów ma ustawiony tryb zgody. Nie ma żadnego tagu bez ustawionej zgody.
+Tag łączący konwersje,Wysoki,Na koncie włączono tag łączący konwersję
+Podsumowanie zasięgu tagu,Wysoki,Wszystkie strony w tym raporcie są otagowane
+Publikowane wersje posiadają tytuły,niski,Osoby publikujące kontenery nadają nazwy wersjom
+Na koncie nie ma UA,Wysoki,W GA4 nie ma przestarzałych kodów UA i innych przestażałych rozwiązań.
+GA4 wywoływane z tagu,niski,GA4 jest wdrożone w tagu w GTM
+,,
+GTM server side,,
+Wdrożenie GTM server side,Wysoki,Usługa została poprawnie włączona i skonfigurowana
+Utworzenie kontenera,Wysoki,Poprawnie utworzono kontener
+Utworzenie GCP,Wysoki,Utworzono GCP
+Dodanie płatnika i karty,Wysoki,Poprawnie skonfigurowano płatność
+Połączenie klienta URL GA na client side,Wysoki,Skonfigurowano połączenie między GTM
+Dodanie custom domain (GCP),Wysoki,Dodano domenę 1st party
+Walidacja klienta,Wysoki,Konfiguracja przeszła pomyślną walidację
+Dodanie DNS AAAA,Wysoki,DNS został skonfigurowany
+Dodanie DNS A,Wysoki,DNS został skonfigurowany
+Zmieniony URL kontenera serwera,średni,URL został skonfigurowany
+Ustawiony transport URL,Wysoki,URL został skonfigurowany
+Flexible plan,średni,Włączono flexible plan
+,,
+Konfiguracja GA4,,
+Ustawienia konta i administracji,,
+Alerty i powiadomienia,Wysoki,Google Analytics nie informuje o żadnych błędach
+Ustawiono Moje preferencje,niski,"Włączono rekomendacje, pomoc techniczną, modelowanie danych"
+Ustawiono Ustawienia udostępniania danych,niski,Usługi są poprawnie skonfigurowane
+Zweryfikowano uprawnienia do konta,Wysoki,Dostępy do konta nie budzą zastrzeżeń
+Zweryfikowano historię zmian na koncie,niski,Historia zmian nie budzi zastrzeżeń
+Zweryfikowano kosz,niski,Kosz nie budzi zastrzeżeń
+,,
+Ustawienia Usługi,,
+"Ustawienia usługi, domeny i języka",niski,Usługi są poprawnie skonfigurowane i nie budżą zastrzeżeń
+Ustawienia waluty,średni,Ustawiono poprawną walutę na usługę
+Historia zmian usługi,średni,Historia zmian nie budzi zastrzeżeń
+,,
+Zbieranie i modyfikowanie danych,,
+Włączone signals,Wysoki,Na koncie jest włączone Google Signals
+Włączono funkcję user_id i dane użytkownika,średni,Na koncie włączono Funkcja User-ID a zbieranie danych przekazywanych przez użytkowników
+Włączono Zbieranie szczegółowych danych o lokalizacji ,średni,Na koncie jest włączona funkcja Zbieranie szczegółowych danych o lokalizacji i urządzeniu
+"Potwierdzenie dotyczące zbierania danych użytkownika",niski,Włączono Potwierdzenie dotyczące zbierania danych użytkownika
+Import danych,średni,Na koncie importowano dane
+Przechowywanie danych o zdarzeniach ,niski,Dane o zdarzeniach są ustawione na maksymalny czas
+Włączono resetowanie danych,średni,Na koncie jest włączone resetowanie danych
+Ustawienia filtrowania,Wysoki,Na koncie jest ustawione filtrowanie ruchu wewnętrznego i dewelopera
+Prośby o usunięcie danych,niski,Nie zauważyliśmy nieprawidłowości
+,,
+Strumienie danych,,
+Strumień danych Web,Wysoki,Strumień danych jest poprawnie wdrożony
+Strumień danych iOS,Wysoki,Strumień danych jest poprawnie wdrożony
+Strumień danych Android,Wysoki,Strumień danych jest poprawnie wdrożony
+URL strumienia danych,niski,URL strumienia jest prawidłowy
+Nazwa strumienia danych,niski,Nazwa jest prawidłowa i nie budzi zastrzeżeń
+"Ustawienia dotyczące wyrażania zgody",Wysoki,Ustawienia dotyczące wyrażania zgody nie zawierają błędów i powiadomień
+Parametr zapytania dla wyszukiwanego hasła,niski,Jest zdefiniowany
+Modyfikacja zdarzeń,niski,Na koncie modyfikowano zdarzenia
+Zdarzenia niestandardowe,niski,Modyfikowanie zdarzeń. Zdarzenia były modyfikowane (nie jest to obligatoryjne)
+Tajny klucz API i Measurement protocol,średni,Utworzono tajny klucz API
+Implementacja (GTM),Wysoki,GA4 jest wdrożone przy pomocy GTM
+Poprawność wdrożenia cross domain tracking,Wysoki,Przekazujemy parametry między domenami
+Zbieranie danych przekazywanych przez użytkowników,średni,Usługa jest włączona
+Zbieranie szczegółowych danych o lokalizacji i urządzeniu,średni,Usługa jest włączona
+Potwierdzenie dotyczące zbierania danych użytkownika,Wysoki,Konto posiada potwierdzone zgody dotyczące zbierania danych
+Pomiar zaawansowany,średni,Włączono ustawienia pomiaru zaawansowanego
+Włączenie wyszukiwarki w witrynie,średni,Włączono wyszukiwanie w witrynie
+,,
+Konfiguracja strumienia,,
+Tagi nie wymagają uwagi,Wysoki,Na koncie nie ma powiadomień
+Konfigurowanie domen,Wysoki,Na koncie poprawnie skonfigurowano cross domain tracking
+Połączone tagi witryny,niski,Wykorzystano połączone tagi witryny (nie jest to obligatoryjne)
+Zezwalaj na wykorzystywanie danych przekazywanych przez użytkowników,średni,Zezwalaj na wykorzystywanie danych przekazywanych przez użytkowników oraz Automatycznie wykrywaj dane przekazywane przez użytkowników
+Rejestrowanie zdarzenia Universal Analytics,niski,Wyłączono rejestrowanie zdarzeń z UA
+"Definiowanie ruchu wewnętrznego",niski,Zdefiniowano ruch wewnętrzny na poziomie użytkownika: traffic_type
+Lista niechcianych witryn odsyłających,niski,Zdefiniowano niechciane witryny
+Wykluczono bramki pocztowe,średni,W niechcianych witrynach zdefiniowano bramki pocztowe
+Wykluczono bramki płatności,Wysoki,"W niechcianych witrynach zdefiniowano operatorów płatności: blik, banki, paypal"
+Wykluczono cookiebot (i inne boty CMP),Wysoki,Ruch bota Cookiebot został zdefiniowany w GA4 i wykluczony
+Czas trwania sesji,średni,Ustawiono standardowy czas trwania sesji
+Czas dla zaangażowania,niski,Standarodowo ustawione 10 sekund dla zaangażowania
+Zastąp ustawienia plików cookies,niski,W GA4 w ustawieniach tagowania w ustawieniach strumieni danych możemy zmienić domyślny czas przechowywania cookies. Maksymalny okres to 25 miesięcy.
+Domyślne ustawienia zgody,średni,"Czy chcesz automatycznie oznaczać dane zbierane za pomocą tagu Google jako informacje, na przekazywanie których użytkownicy wyrazili zgodę?"
+Zarządzanie danymi Google,średni,Ustawiono Wszystkie usługi Google (zalecane)
+Wyświetl instrukcje dotyczące tagu,niski,Status to: dane napływające
+,,
+Administracja strumienia,,
+Zarządzanie tagiem Google,Wysoki,nie budzi zastrzeżeń
+Zduplikowane tagi,Wysoki,Ustawiono  ignorowanie zduplikowanych konfiguracji na stronie
+Łączenie tagów,średni,nie budzi zastrzeżeń
+Zasięg tagu,Wysoki,raport zasięgu tagów nie budzi zastrzeżeń
+,,
+Wyświetlanie danych,,
+Ustawienie zdarzeń jako konwersji,średni,Ustawiono zdarzenia jako konwersję
+Odbiorcy,niski,Utworzono przynajmniej 1 grupę odbiorców
+Porównania,niski,Utworzono przynajmniej 1 porównanie
+Segmenty,niski,Utworzono przynajmniej 1 segment
+Wykorzystano eventy w odbiorcach,niski,Wdrożono poprawnie
+Definicje niestandardowe,niski,Wykorzystano definicje niestandardowe
+Wymiary niestandardowe,niski,Wykorzystano wymiary niestandardowe
+Dane niestandardowe,niski,Wykorzystano dane niestandardowe
+Własna grupa kanałów,średni,Na koncie wykorzystuje się własne grupowania kanałów
+Ustawienia atrybucji,średni,Rekomendowane na podstawie danych
+Przypisanie konwersji w kanałach,średni,Rekomendowane płatne i bezpłatne
+Ważność kluczowego zdarzenia,średni,Ustawiono 30 dni
+Wszystkie inne kluczowe zdarzenia,średni,"To zależy od przypadku, ale rekomenduję 30 dni"
+Sprawdź prośby o usunięcie,niski,Prośby o usunięcie nie budzą zastrzeżeń
+Tożsamość na potrzeby raportowania,niski,Rekomeduję mieszany
+,,
+Połączenie usług,,
+AdSense (opcjonalne),Wysoki,Na koncie GA4 jest włączona integracja
+Google Ads (obligatoryjne),Wysoki,Na koncie GA4 jest włączona integracja
+Włącz reklamy spersonalizowane (obligatoryjne),Wysoki,Włączono funkcję na koncie
+Ad Manager (opcjonalne),Wysoki,Na koncie GA4 jest włączona integracja
+BQ (obligatoryjne),Wysoki,Na koncie GA4 jest włączona integracja
+D&V360(opcjonalne),Wysoki,Na koncie GA4 jest włączona integracja
+Floodlight(opcjonalne),Wysoki,Na koncie GA4 jest włączona integracja
+Google Play (opcjonalne),Wysoki,Na koncie GA4 jest włączona integracja
+SA360 (opcjonalne),Wysoki,Na koncie GA4 jest włączona integracja
+Search Console (obligatoryjne),Wysoki,Na koncie GA4 jest włączona integracja
+,, 
+Raporty,,
+Alerty niestandardowe,niski,Wykorzystano alerty niestandardowe są włączone
+Custom Insights,Wysoki,"Utworzono Custom Insights, niestandardowe raporty o trendach i anomalii"
+Alerty o anomaliach,Wysoki,Na koncie są ustawione alerty dla anomalii dla ruchu i kluczowych zdarzeń
+Powiadomienia email o anomaliach,Wysoki,Anomalie mają ustawione powiadomienie email
+Utworzono własne eksploracje,średni,Ustawiono więcej jak 1 własną eksplorację
+Utworzono własne raporty,średni,Ustawiono więcej jak 1 własny raport
+,, 

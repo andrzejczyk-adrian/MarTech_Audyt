@@ -1,0 +1,65 @@
+,Zakres usługi,Priorytet,Opis warunku prawidłowego
+,,,
+,Wstępny audyt strony,,
+,Udział sesji not set < 5%,Wysoki,Ruch not set ma udział poniżej 5% w całym ruchu
+,Udział pierwszego źródła ruchu not set<5%,Wysoki,Ruch not set ma udział poniżej 5% w całym ruchu
+,Pierwsze źródło użytkownika wygląda poprawnie,Wysoki,Ruch wygląda naturalnie i poprawnie
+,Pozostały ruch wygląda poprawnie,Wysoki,Źródła danych nie budzą zastrzeżeń
+,Mamy wdrożony cross domain tracking,średni,Nie widzimy domen własnych w źródle ruchu
+,Wszystkie źródła ruchu,Wysoki,Udział w ruchu i podstawowe metryki wyglądają naturalnie
+,Posiadamy zidentyfikowany ruch spamowy,średni,Nie widzimy znaczącego udziału ruchu spamowego
+,Bramki płatności,Wysoki,Nie występują na ścieżce bramki płatności
+,Bramki pocztowe,Wysoki,Nie występują na ścieżce bramki pocztowe
+,Facebook,średni,Dane są unifikowane
+,Ruch międzynarodowy,średni,nie budzi zastrzeżeń
+,,,
+,Jakość strony,,
+,Strony docelowe,średni,Nie budzi zastrzeżeń
+,Czas trwania sesji,średni,Nie budzi zastrzeżeń
+,współczynnik zaangażowania,średni,Nie budzi zastrzeżeń
+,CR,średni,Nie budzi zastrzeżeń
+,Strona odsyłająca,średni,Nie budzi zastrzeżeń
+,Błędy,Wysoki,Nie występują
+,Wnioski z łączenia ze źródłem ruchu,,Jak pokrywają się strony docelowe ze źródłem
+,,,
+,Sesje not set,,
+,source medium udział not set,Wysoki,Nie zawiera niepokojącego udziału not set 
+,source medium udział direct none,Wysoki,Nie zawiera niepokojącego udziału direct
+,trend w czasie dla not set,Wysoki,Nie zawiera niepokojącego udziału not set 
+,trend w czasie dla direct,Wysoki,Nie zawiera niepokojącego udziału direct
+,Trend w czasie dla sumy none i not set,Wysoki,Nie zawiera niepokojącego udziału
+,Udział procentowy dla sesji,Wysoki,Nie zawiera niepokojącego udziału
+,landing page not set,Wysoki,Nie zawiera niepokojącego udziału not set 
+,ścieżka do strony not set,Wysoki,
+,pierwszy użytkownik not set,Wysoki,
+,source/medium 3 not set,Wysoki,"jak wyglądają not sety dla source medium 3, czy udział jest < 5%"
+,title,średni,Nie zawiera niepokojącego udziału not set 
+,content group,średni,Nie zawiera niepokojącego udziału not set 
+,język,średni,Nie zawiera niepokojącego udziału not set 
+,kraj,średni,Nie zawiera niepokojącego udziału not set 
+,transakcje,Wysoki,Nie zawiera niepokojącego udziału not set 
+,nazwa produktu,średni,Nie zawiera niepokojącego udziału not set 
+,wariant produktu,średni,Nie zawiera niepokojącego udziału not set 
+,kategoria produktu,średni,Nie zawiera niepokojącego udziału not set 
+,marka produktu,średni,Nie zawiera niepokojącego udziału not set 
+,urządzenia,średni,Nie zawiera niepokojącego udziału not set 
+,nazwa hosta,średni,Nie zawiera niepokojącego udziału not set 
+,wyszukiwane hasło,średni,Nie zawiera niepokojącego udziału not set 
+,kategoria urządzeń,średni,Nie zawiera niepokojącego udziału not set 
+,przeglądarka,średni,Nie zawiera niepokojącego udziału not set 
+,system operacyjny,średni,Nie zawiera niepokojącego udziału not set 
+,,,
+,Transakcje not set,,
+,Udział w source medium not set,Wysoki,Nie zawiera niepokojącego udziału
+,Udział w source medium direct none,Wysoki,Nie zawiera niepokojącego udziału
+,Łączny udział not set i direct none,Wysoki,Nie zawiera niepokojącego udziału
+,Trend w czasie,Wysoki,Nie zawiera niepokojącego udziału
+,,,
+,Events check,,
+,Wykorzystano najważniejsze zdarzenia e-com,Wysoki,Wykorzystano wszystkie zdarzenia rekomendowane dla e-commerce. Sprawdzam w dokumentacji czy wszystkie możliwe zdarzenia zostały zaimplementowane: https://developers.google.com/analytics/devguides/collection/ga4/ecommerce
+,Lejek wygląda naturalnie,Wysoki,Zdarzenia mają wygląd lejka czyli purchase jest mniej jak begin checkout
+,Transakcje pokrywają się z przychodem,Wysoki,"Nie zawiera niepokojącego udziału not set. Dla różnych źródeł ruchu mamy podobne AOV, nie widać anomalii"
+,,,
+,Eklsploracja jakości,,
+,Lejek kluczowych zdarzeń,Wysoki,Weryfikuję czy dla użytkowników nie przerywa się ścieżka np. na checkout. Nie mamy użytkowników którzy rozpoczynają sesję od view cart lub checkout
+,"Analiza źródło, medium kampania",Wysoki,Sprawdzam czy dla google / cpc nie ma campaign organic lub not set

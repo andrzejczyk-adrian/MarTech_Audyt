@@ -1,0 +1,24 @@
+Zakres usługi,Priorytet,Opis warunku prawidłowego
+Audyt CMP,,
+Czy baner daje możliwość personalizacji wyboru,niski,Baner powinien umożliwić wybór kategorii plików cookies które mają zostać zaakceptowane/odrzucone.
+Możliwość odrzucenia wszystkich zgód,niski,Button umożliwiający odrzucenie wszystkich zgód. 
+Strona jest domyślnie zablokowana,Wysoki,Domyślnie stronę możemy przeglądać dopiero w momencie wybrania zgody.
+Poprawnie blokuje pliki cookies,Wysoki,Funkcjonalność baneru nie powinna być atrapą i powinna skutecznie blokować poszczególne kategorie cookies. 
+Możliwość zmiany decyzji,niski,"Użytkownik powinien mieć możliwość zmiany swojej decyzji w prosty, intuicyjny sposób. Interface strony powinien posiadać taką funkcjonalność."
+Ustawienia domyślne,średni,"Domyślnie, przy pierwszej wizycie użytkownik musi dokonać jakiegoś wyboru. Możliwość przeglądania strony jest w tym momencie zablokowana. "
+Ustawienia domyślne - brak zgody,średni,Przy pierwszej wizycie nie zbieramy cookies
+Wywołanie datalayer consent update,średni,Przy pierwszej wizycie w witrynie GA4 jest wywoływane dopiero po zaktualizowaniu zgody consent.
+Brak odświeżania strony,średni,Po wyborze zgody consent stronie nie jest ponownie odświeżana tylko aktualizuje się zgoda.
+GA4 i pixel wywołują się na update zgody,Wysoki,Tagi wywołują się po wyborze zgody 
+Brak user engagement ,niski,Po wyborze zgody nie wywołuje się zdarzenie zaangażowania
+Przegląd ustawień uzyskiwania zgody,średni,Ustawienia tagów i zgód w GTM nie budzą zastrzeżeń. Można to jeszcze skonsultować z prawnikiem. 
+Wywołanie consent managera w GTM,średni,Platforma do zarządzania zgodami Consent Managera wywołuje się prawidłowo wraz z odpowiednią regułą - Consent Initialization.
+Walidacja Consent mode z GTM,Wysoki,Jeśli Consent Mode jest wdrożony za pomocą usługi GTM to odpowiednie ustawienia zgód powinny blokować wywoływanie tagów GTM.
+Tagi w GTM mają ustawiony tryb zgody,średni,Wszystkie tagi mają ustawiony odpowiedni tryb zgody
+Wywoływanie PING w consent mode,średni,Dla wyłączonych zgód są przesyłane dane do GA4
+Wdrożono url_passthrough,Wysoki,Poprawnie wywołujemy url_passthrough
+,,
+Dane wrażliwe,,
+W adresach URL nie ma danych wrażliwych,Wysoki,Podstawowe sprawdzenie nie wykazało problemów. Mogę wykonać osobny audyt aby mieć 100% pewność
+W utmach nie ma danych wrażliwych,Wysoki,
+W eventach i atrybutach nie ma danych wrażliwych,Wysoki,

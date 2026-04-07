@@ -1,0 +1,22 @@
+# Pliki tymczasowe Word
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Pliki systemowe Windows
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Klucze i sekrety (NIE commituj!)
+../../../keys/
+*.json.secret
+
+# Duże pliki danych (opcjonalnie odkomentuj jeśli potrzeba)
+# dane/*.csv
+# dane/*.json

@@ -1,0 +1,10 @@
+Przykładowe rekomendacje (jesli nie wdrożono),,
+Wydłużenie czasu trwania sesji,Wysoki,czas trawnia sesji to min 5h
+Ręcznie zdarzenia (nie automatyczne),średni,mamy ręcznie wywoływane zdarzenia np. search a nie automatycznie
+Wykluczenie bramek i witryn w GA4,Wysoki,
+brama tagów,Wysoki,mamy skonfigurowaną bramę tagów np. CloudFlare
+Dodanie user_id,Wysoki,
+Analiza i wykluczenie botów,średni,
+Wykluczenie ruchu wew i dew,średni,
+Urealnienie client_id,Wysoki,dodajemy fingerprint
+Urealnienie session_id,Wysoki,dodajemy fingerprint

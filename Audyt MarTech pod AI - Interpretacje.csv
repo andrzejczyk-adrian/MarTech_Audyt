@@ -1,0 +1,7 @@
+Jeśli,To
+wynik Data Quality < 70%,tym danym nie możemy zaufać. Należy poprawić jakość danych przed przystąpieniem do analizy
+data quality 70-80%,"dane średniej jakości, ale można to analizować"
+data quality >80%,wynik dobry można prowadzić analizy
+dane o transakcjach są poprawne,jeśli akceptujemy poprawność danych o transakcji to w tym obszarze możemy prowadzić analizy
+dane o source medium są poprawne,jeśli akceptujemy poprawność danych o source medium to w tym obszarze możemy prowadzić analizy
+pozostałem metryki - poprawne/niepoprawne,"analizy, segmenty dla pozostałych metryk musza posiadać data quality score > 80% tym metrykom musimy zaufać przed przejściem do analizy"

@@ -1,0 +1,25 @@
+Zakres usługi,Priorytet,Opis warunku prawidłowego
+,,
+Wstępny audyt strony,,
+Adnotacje,Wysoki,Klient prowadzi dokumentację wprowadzanych zmian w sklepie i technologii. Adnotacje są widoczne w GA4
+Sprawdzenie kodu html,Wysoki,"GTM znajduje się zaraz po head na stronie. Struktura w HTML wygląda następująco 1. consent datalayer 2. datalayer 3. GTM 4. inne tagi. Wyjątkiem są metadane czy alty. Natomiast żaden JS nie powinien być powyżej consent, DL czy GTM."
+Wybrane strony,Wysoki,"Przejście po po losowych podstronach nie budzi zastrzeżeń i nie widać krytycznych błędów. Nie ma krytycznych błędów JS i w trackingu, pixelach Mety, Google, Bing."
+Google Tag Assistant,niski,Wszystkie skrypt wdrożone są poprawnie. Wtyczka Tag Assistant nie pokazuje błędów dla strony głównej i kilku wybranych podstron.
+TagHound ,Wysoki,"Przechodząc stronę w TagHound nie widzę poważnych nieścisłości. Narzędzie TagHound nie raportuje błędów na stronie głównej, stronie kategorii, stronie produktu i koszyku."
+Zgody (opt-in) - Consent Mode,średni,Na stronie zaimplementowano popup zgody cookies z możliwością ich zmiany. Na tym etapie nie zweryfikowałem poprawności działania.
+Kod UA na stronie,niski,"Mamy tylko jeden kod GA4 na stronie, nie ma starych kodów np. UA. Nie wywołują się one, nie wysyłają requestów."
+Datalayer,Wysoki,"Na koncie widzimy datalayer, który jest poprawnie wywoływany. Nie widzimy błędów w DL na stronie."
+Datalayer GA4,Wysoki,"Na koncie widzimy datalayer, który jest poprawnie wywoływany pod e-commerce GA4. Nie widzimy błędów w datalayerze (struktura kodu, jakość informacji)."
+,,
+Podpięcie innych usług (o ile występują),,
+Analytics 360,Wysoki,GA360 jest poprawnie podpięte
+Nie ma powiadomień na 360,Wysoki,W GA360 nie widzimy niepokojących powiadomień
+Remarketing Google Ads,średni,Na koncie mamy włączony remarketing powiązany z Google Ads
+Nie ma powiadomień w remarketingu Google Ads,średni,Na koncie Google Ads nie widzimy powiadomień dotyczących źródła danych.
+Konwersje Google Ads w GTM,Wysoki,W GTM mamy podpięte konwersje dla Google Ads.
+Linkedin Insight Tag,Wysoki,W GTM mamy wdrożone linkedin Insight Tag
+Pinterest tag,Wysoki,W GTM mamy wdrożone Pinterest tag
+FB pixel,Wysoki,W GTM mamy wdrożone FB piksel
+API konwersji,Wysoki,W GTM mamy wdrożone API konwersji
+YM,Wysoki,W GTM mamy wdrożone YM
+Clarity,Wysoki,W GTM mamy wdrożone Clarity
