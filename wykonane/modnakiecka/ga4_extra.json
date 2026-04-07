@@ -1,0 +1,324 @@
+{
+  "first_user_source": [
+    {
+      "firstUserSource": "google",
+      "firstUserMedium": "cpc",
+      "newUsers": "218087",
+      "sessions": "634979"
+    },
+    {
+      "firstUserSource": "facebook",
+      "firstUserMedium": "cpc",
+      "newUsers": "147883",
+      "sessions": "492804"
+    },
+    {
+      "firstUserSource": "google",
+      "firstUserMedium": "organic",
+      "newUsers": "64454",
+      "sessions": "143624"
+    },
+    {
+      "firstUserSource": "(direct)",
+      "firstUserMedium": "(none)",
+      "newUsers": "38873",
+      "sessions": "134597"
+    },
+    {
+      "firstUserSource": "m.facebook.com",
+      "firstUserMedium": "referral",
+      "newUsers": "18056",
+      "sessions": "55594"
+    },
+    {
+      "firstUserSource": "fb",
+      "firstUserMedium": "paid",
+      "newUsers": "14772",
+      "sessions": "52964"
+    },
+    {
+      "firstUserSource": "facebook",
+      "firstUserMedium": "traffic",
+      "newUsers": "12468",
+      "sessions": "21079"
+    },
+    {
+      "firstUserSource": "criteo",
+      "firstUserMedium": "retargeting",
+      "newUsers": "12162",
+      "sessions": "50537"
+    },
+    {
+      "firstUserSource": "(data not available)",
+      "firstUserMedium": "(data not available)",
+      "newUsers": "8777",
+      "sessions": "20436"
+    },
+    {
+      "firstUserSource": "lm.facebook.com",
+      "firstUserMedium": "referral",
+      "newUsers": "8711",
+      "sessions": "30310"
+    },
+    {
+      "firstUserSource": "lamoda",
+      "firstUserMedium": "cpc",
+      "newUsers": "7292",
+      "sessions": "20741"
+    },
+    {
+      "firstUserSource": "criteo",
+      "firstUserMedium": "display",
+      "newUsers": "6721",
+      "sessions": "21144"
+    },
+    {
+      "firstUserSource": "ig",
+      "firstUserMedium": "social",
+      "newUsers": "5387",
+      "sessions": "7477"
+    },
+    {
+      "firstUserSource": "wpads",
+      "firstUserMedium": "display",
+      "newUsers": "4277",
+      "sessions": "16638"
+    },
+    {
+      "firstUserSource": "bing",
+      "firstUserMedium": "cpc",
+      "newUsers": "4147",
+      "sessions": "12115"
+    },
+    {
+      "firstUserSource": "tiktok",
+      "firstUserMedium": "paid",
+      "newUsers": "4074",
+      "sessions": "8975"
+    },
+    {
+      "firstUserSource": "wp",
+      "firstUserMedium": "booster",
+      "newUsers": "3639",
+      "sessions": "5287"
+    },
+    {
+      "firstUserSource": "(not set)",
+      "firstUserMedium": "(not set)",
+      "newUsers": "3118",
+      "sessions": "13258"
+    },
+    {
+      "firstUserSource": "tiktok",
+      "firstUserMedium": "traffic",
+      "newUsers": "3106",
+      "sessions": "3841"
+    },
+    {
+      "firstUserSource": "l.facebook.com",
+      "firstUserMedium": "referral",
+      "newUsers": "2808",
+      "sessions": "16884"
+    },
+    {
+      "firstUserSource": "bing",
+      "firstUserMedium": "organic",
+      "newUsers": "2154",
+      "sessions": "6716"
+    },
+    {
+      "firstUserSource": "Pinterest",
+      "firstUserMedium": "cpc",
+      "newUsers": "2118",
+      "sessions": "4417"
+    },
+    {
+      "firstUserSource": "pwa",
+      "firstUserMedium": "(not set)",
+      "newUsers": "2103",
+      "sessions": "14119"
+    },
+    {
+      "firstUserSource": "salesmanago",
+      "firstUserMedium": "sms",
+      "newUsers": "1917",
+      "sessions": "8712"
+    },
+    {
+      "firstUserSource": "tiktok",
+      "firstUserMedium": "cpc",
+      "newUsers": "1735",
+      "sessions": "6429"
+    },
+    {
+      "firstUserSource": "salesmanago",
+      "firstUserMedium": "newsletter",
+      "newUsers": "1433",
+      "sessions": "3503"
+    },
+    {
+      "firstUserSource": "salesmanago",
+      "firstUserMedium": "email_confirmation",
+      "newUsers": "1019",
+      "sessions": "3573"
+    },
+    {
+      "firstUserSource": "fb",
+      "firstUserMedium": "traffic",
+      "newUsers": "984",
+      "sessions": "1778"
+    },
+    {
+      "firstUserSource": "salesmanago",
+      "firstUserMedium": "email",
+      "newUsers": "971",
+      "sessions": "4878"
+    },
+    {
+      "firstUserSource": "(not set)",
+      "firstUserMedium": "cpc",
+      "newUsers": "904",
+      "sessions": "1692"
+    }
+  ],
+  "new_vs_returning": [
+    {
+      "newVsReturning": "returning",
+      "sessions": "1156169",
+      "ecommercePurchases": "22790",
+      "purchaseRevenue": "5035969.2697230028"
+    },
+    {
+      "newVsReturning": "new",
+      "sessions": "663262",
+      "ecommercePurchases": "8249",
+      "purchaseRevenue": "1790063.8398759998"
+    },
+    {
+      "newVsReturning": "(not set)",
+      "sessions": "45418",
+      "ecommercePurchases": "18",
+      "purchaseRevenue": "4928.480007"
+    },
+    {
+      "newVsReturning": "",
+      "sessions": "8374",
+      "ecommercePurchases": "106",
+      "purchaseRevenue": "27089.999992"
+    }
+  ],
+  "engagement_by_channel": [
+    {
+      "sessionDefaultChannelGroup": "Paid Social",
+      "sessions": "621933",
+      "engagedSessions": "553606",
+      "averageSessionDuration": "220.12853237078752",
+      "engagementRate": "89.0%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Cross-network",
+      "sessions": "443653",
+      "engagedSessions": "396504",
+      "averageSessionDuration": "308.9815826328595",
+      "engagementRate": "89.4%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessions": "168925",
+      "engagedSessions": "156531",
+      "averageSessionDuration": "597.22007939969217",
+      "engagementRate": "92.7%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": "144372",
+      "engagedSessions": "130503",
+      "averageSessionDuration": "339.08290267323997",
+      "engagementRate": "90.4%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": "128991",
+      "engagedSessions": "117738",
+      "averageSessionDuration": "246.44734201894707",
+      "engagementRate": "91.3%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Other",
+      "sessions": "94115",
+      "engagedSessions": "81875",
+      "averageSessionDuration": "318.26905495490621",
+      "engagementRate": "87.0%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": "85722",
+      "engagedSessions": "53604",
+      "averageSessionDuration": "495.57616437493294",
+      "engagementRate": "62.5%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Display",
+      "sessions": "74046",
+      "engagedSessions": "63753",
+      "averageSessionDuration": "339.53818397994496",
+      "engagementRate": "86.1%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": "65092",
+      "engagedSessions": "54758",
+      "averageSessionDuration": "266.205094884164",
+      "engagementRate": "84.1%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Shopping",
+      "sessions": "25174",
+      "engagedSessions": "23040",
+      "averageSessionDuration": "484.07297427147057",
+      "engagementRate": "91.5%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": "24276",
+      "engagedSessions": "20539",
+      "averageSessionDuration": "651.3696089087988",
+      "engagementRate": "84.6%"
+    },
+    {
+      "sessionDefaultChannelGroup": "SMS",
+      "sessions": "9839",
+      "engagedSessions": "8441",
+      "averageSessionDuration": "249.61832085679436",
+      "engagementRate": "85.8%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Email",
+      "sessions": "3377",
+      "engagedSessions": "3061",
+      "averageSessionDuration": "279.13137205626293",
+      "engagementRate": "90.6%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Mobile Push Notifications",
+      "sessions": "696",
+      "engagedSessions": "622",
+      "averageSessionDuration": "241.66200409339083",
+      "engagementRate": "89.4%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Affiliates",
+      "sessions": "13",
+      "engagedSessions": "11",
+      "averageSessionDuration": "415.91870523076921",
+      "engagementRate": "84.6%"
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Video",
+      "sessions": "3",
+      "engagedSessions": "2",
+      "averageSessionDuration": "43.166372666666661",
+      "engagementRate": "66.7%"
+    }
+  ]
+}
