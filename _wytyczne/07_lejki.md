@@ -15,11 +15,11 @@ warunek_wejscia: ecommerce z 4 zdarzeniami GA4: view_item add_to_cart begin_chec
 ## Kryteria
 
 | id | kryterium | priorytet | dotyczy | jak_sprawdzic | warunek_ok | czerwona_flaga | max_pkt | uwagi |
-|----|-----------|-----------|---------|---------------|------------|----------------|---------|-------|
-| 7.1 | Wszystkie 4 zdarzenia e-commerce wdrożone | Wysoki | ecommerce | raw-data → zdarzenia → view_item add_to_cart begin_checkout purchase obecne | Wszystkie 4 zdarzenia aktywne z sensownymi liczbami | Brak któregokolwiek z 4 zdarzeń | 2 | |
-| 7.2 | CR paid ≥50% CR organic | Wysoki | ecommerce+ads | raw-data → CR(CPC) / CR(organic) | CR paid / CR organic ≥0.5 | CR paid <30% CR organic = słaba jakość ruchu płatnego | 2 | |
-| 7.3 | Brak kanału z CR <0.1% przy wydatkach >1000 PLN | Wysoki | ecommerce+ads | raw-data → CR per kanał + wydatki z BDOS | Żaden kanał płatny z CR <0.1% | Kanał płatny z setkami PLN i CR bliskim 0 | 2 | |
-| 7.4 | Checkout drop-off ≤40% | Wysoki | ecommerce | raw-data → begin_checkout → purchase: oblicz % przejścia | begin_checkout → purchase ≥60% | Przejście <40% = problem z bramką lub UX kasy | 2 | |
+|---|---|---|---|---|---|---|---|---|
+| 7.1 | Wszystkie 4 zdarzenia e-commerce wdrożone | Wysoki | ecommerce | raw-data → zdarzenia → view_item add_to_cart begin_checkout purchase obecne | Wszystkie 4 zdarzenia aktywne z sensownymi liczbami | Brak któregokolwiek z 4 zdarzeń | 2 |  |
+| 7.2 | CR paid ≥50% CR organic | Wysoki | ecommerce+ads | raw-data → CR(CPC) / CR(organic) | CR paid / CR organic ≥0.5 | CR paid <30% CR organic = słaba jakość ruchu płatnego | 2 |  |
+| 7.3 | Brak kanału z CR <0.1% przy wydatkach >1000 PLN | Wysoki | ecommerce+ads | raw-data → CR per kanał + wydatki z BDOS | Żaden kanał płatny z CR <0.1% | Kanał płatny z setkami PLN i CR bliskim 0 | 2 |  |
+| 7.4 | Checkout drop-off ≤40% | Wysoki | ecommerce | raw-data → begin_checkout → purchase: oblicz % przejścia | begin_checkout → purchase ≥60% | Przejście <40% = problem z bramką lub UX kasy | 2 |  |
 
 ---
 

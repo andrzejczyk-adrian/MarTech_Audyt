@@ -1,0 +1,140 @@
+=== FUNNEL ===
+{'sessionDefaultChannelGroup': 'Paid Social', 'sessions': '620375', 'addToCarts': '75792', 'checkouts': '27487', 'ecommercePurchases': '8667', 'purchaseRevenue': '1682605.339795'}
+{'sessionDefaultChannelGroup': 'Cross-network', 'sessions': '442595', 'addToCarts': '44129', 'checkouts': '12561', 'ecommercePurchases': '5776', 'purchaseRevenue': '1231274.519981'}
+{'sessionDefaultChannelGroup': 'Paid Search', 'sessions': '168729', 'addToCarts': '47900', 'checkouts': '14826', 'ecommercePurchases': '6262', 'purchaseRevenue': '1563716.8900690002'}
+{'sessionDefaultChannelGroup': 'Organic Search', 'sessions': '143668', 'addToCarts': '14926', 'checkouts': '4094', 'ecommercePurchases': '1857', 'purchaseRevenue': '427855.099932'}
+{'sessionDefaultChannelGroup': 'Organic Social', 'sessions': '128817', 'addToCarts': '14371', 'checkouts': '4987', 'ecommercePurchases': '1785', 'purchaseRevenue': '367217.04992399982'}
+{'sessionDefaultChannelGroup': 'Paid Other', 'sessions': '93961', 'addToCarts': '10917', 'checkouts': '3460', 'ecommercePurchases': '1359', 'purchaseRevenue': '287152.819979'}
+{'sessionDefaultChannelGroup': 'Unassigned', 'sessions': '82600', 'addToCarts': '14682', 'checkouts': '4613', 'ecommercePurchases': '1601', 'purchaseRevenue': '371813.8499969999'}
+{'sessionDefaultChannelGroup': 'Display', 'sessions': '73711', 'addToCarts': '6801', 'checkouts': '2064', 'ecommercePurchases': '775', 'purchaseRevenue': '164543.25998399997'}
+{'sessionDefaultChannelGroup': 'Direct', 'sessions': '64812', 'addToCarts': '6770', 'checkouts': '2729', 'ecommercePurchases': '1267', 'purchaseRevenue': '281116.19001499994'}
+{'sessionDefaultChannelGroup': 'Paid Shopping', 'sessions': '25149', 'addToCarts': '5066', 'checkouts': '1370', 'ecommercePurchases': '611', 'purchaseRevenue': '131598.70999799998'}
+{'sessionDefaultChannelGroup': 'Referral', 'sessions': '24198', 'addToCarts': '7206', 'checkouts': '2954', 'ecommercePurchases': '1005', 'purchaseRevenue': '307518.4499270001'}
+{'sessionDefaultChannelGroup': 'SMS', 'sessions': '9839', 'addToCarts': '925', 'checkouts': '372', 'ecommercePurchases': '85', 'purchaseRevenue': '18605.14999699999'}
+{'sessionDefaultChannelGroup': 'Email', 'sessions': '3376', 'addToCarts': '458', 'checkouts': '113', 'ecommercePurchases': '34', 'purchaseRevenue': '7011.5600049999985'}
+{'sessionDefaultChannelGroup': 'Mobile Push Notifications', 'sessions': '696', 'addToCarts': '30', 'checkouts': '3', 'ecommercePurchases': '1', 'purchaseRevenue': '109.99'}
+{'sessionDefaultChannelGroup': 'Affiliates', 'sessions': '13', 'addToCarts': '6', 'checkouts': '7', 'ecommercePurchases': '5', 'purchaseRevenue': '740.950003'}
+{'sessionDefaultChannelGroup': 'Paid Video', 'sessions': '3', 'addToCarts': '0', 'checkouts': '0', 'ecommercePurchases': '0', 'purchaseRevenue': '0'}
+
+=== DEVICES ===
+{'deviceCategory': 'mobile', 'sessions': '1658971', 'ecommercePurchases': '24900', 'purchaseRevenue': '5252253.9597600037'}
+{'deviceCategory': 'desktop', 'sessions': '188525', 'ecommercePurchases': '6013', 'purchaseRevenue': '1552462.3298390007'}
+{'deviceCategory': 'tablet', 'sessions': '21481', 'ecommercePurchases': '177', 'purchaseRevenue': '38163.540006'}
+{'deviceCategory': 'smart tv', 'sessions': '15', 'ecommercePurchases': '0', 'purchaseRevenue': '0'}
+
+=== CITIES ===
+{'city': 'Warsaw', 'sessions': '318811', 'ecommercePurchases': '5336', 'purchaseRevenue': '1204280.049875'}
+{'city': '(not set)', 'sessions': '198855', 'ecommercePurchases': '2234', 'purchaseRevenue': '486195.30998499977'}
+{'city': 'Wroclaw', 'sessions': '114327', 'ecommercePurchases': '2019', 'purchaseRevenue': '449904.3300149999'}
+{'city': 'Poznan', 'sessions': '95639', 'ecommercePurchases': '1579', 'purchaseRevenue': '331204.91999299987'}
+{'city': 'Krakow', 'sessions': '94652', 'ecommercePurchases': '1618', 'purchaseRevenue': '354243.75992199988'}
+{'city': 'Lodz', 'sessions': '70044', 'ecommercePurchases': '1204', 'purchaseRevenue': '261802.44998099995'}
+{'city': 'Gdansk', 'sessions': '64369', 'ecommercePurchases': '1121', 'purchaseRevenue': '235213.30997'}
+{'city': 'Katowice', 'sessions': '63512', 'ecommercePurchases': '952', 'purchaseRevenue': '192645.83001600005'}
+{'city': 'Bydgoszcz', 'sessions': '41458', 'ecommercePurchases': '719', 'purchaseRevenue': '154067.21004099998'}
+{'city': 'Lublin', 'sessions': '37001', 'ecommercePurchases': '723', 'purchaseRevenue': '157796.990014'}
+{'city': 'Rzeszow', 'sessions': '30115', 'ecommercePurchases': '528', 'purchaseRevenue': '111280.54000599997'}
+{'city': 'Szczecin', 'sessions': '24669', 'ecommercePurchases': '458', 'purchaseRevenue': '103472.31999199996'}
+{'city': 'Bialystok', 'sessions': '21568', 'ecommercePurchases': '397', 'purchaseRevenue': '90197.099974000012'}
+{'city': 'Czestochowa', 'sessions': '18536', 'ecommercePurchases': '308', 'purchaseRevenue': '61763.000012000004'}
+{'city': 'Kielce', 'sessions': '17971', 'ecommercePurchases': '314', 'purchaseRevenue': '65431.379971000017'}
+{'city': 'Radom', 'sessions': '17133', 'ecommercePurchases': '331', 'purchaseRevenue': '77880.179986000017'}
+{'city': 'Torun', 'sessions': '11468', 'ecommercePurchases': '201', 'purchaseRevenue': '44406.830001999995'}
+{'city': 'Plock', 'sessions': '11050', 'ecommercePurchases': '189', 'purchaseRevenue': '37032.030002999993'}
+{'city': 'Olsztyn', 'sessions': '10417', 'ecommercePurchases': '174', 'purchaseRevenue': '39167.660005000005'}
+{'city': 'Sosnowiec', 'sessions': '10382', 'ecommercePurchases': '163', 'purchaseRevenue': '33360.600001999992'}
+
+=== PRODUCTS TOP 20 ===
+{'itemId': '23061976', 'itemName': 'Beżowy Trencz12112-205-A', 'itemCategory': 'Okrycia Wierzchnie', 'itemsViewed': '26523', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23067535', 'itemName': 'Błękitny Komplet Marynarka + Spodnie13778-207-A', 'itemCategory': 'Komplety', 'itemsViewed': '20796', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23068322', 'itemName': 'Beżowy Komplet Marynarka + Spodnie13778-207-F', 'itemCategory': 'Komplety', 'itemsViewed': '19883', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071316', 'itemName': 'Brązowa Plisowana Sukienka14704-156-A', 'itemCategory': 'Sukienki Eleganckie', 'itemsViewed': '19348', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071507', 'itemName': 'Beżowa Elegancka Sukienka z Marszczeniem14757-202-A', 'itemCategory': 'Sukienki Eleganckie', 'itemsViewed': '19302', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071275', 'itemName': 'Beżowa Przejściowa Kurtka z Kapturem14689-244-A', 'itemCategory': 'Okrycia Wierzchnie', 'itemsViewed': '17851', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071733', 'itemName': 'Beżowa Plisowana Sukienka w Grochy14815-523-A', 'itemCategory': 'Sukienki na co Dzień', 'itemsViewed': '17763', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071297', 'itemName': 'Beżowa Satynowa Sukienka Midi14698-413-A', 'itemCategory': 'Sukienki Eleganckie', 'itemsViewed': '17145', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23068172', 'itemName': 'Beżowa Sukienka w Kwiaty z Paskiem13913-364-A', 'itemCategory': 'Sukienki Eleganckie', 'itemsViewed': '16504', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071826', 'itemName': 'Kremowy Elegancki Komplet14845-171-C', 'itemCategory': 'Komplety', 'itemsViewed': '15251', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071293', 'itemName': 'Beżowy Krótki Płaszcz Teddy14696-528-A', 'itemCategory': 'Okrycia Wierzchnie', 'itemsViewed': '15199', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23054688', 'itemName': 'Beżowy Komplet Marynarka + Spodnie9613-346-A', 'itemCategory': 'Komplety', 'itemsViewed': '14838', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23054689', 'itemName': 'Kremowy Komplet Marynarka + Spodnie9613-346-B', 'itemCategory': 'Komplety', 'itemsViewed': '14817', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23067528', 'itemName': 'Beżowa Przejściowa Kurtka z Kieszeniami13775-170-A', 'itemCategory': 'Okrycia Wierzchnie', 'itemsViewed': '14412', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23068327', 'itemName': 'Różowy Komplet Marynarka + Spodnie13778-207-I', 'itemCategory': 'Komplety', 'itemsViewed': '13683', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23067812', 'itemName': 'Beżowa Sukienka z Bufiastymi Rękawami i Paskiem13848-533-A', 'itemCategory': 'Sukienki Eleganckie', 'itemsViewed': '13422', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071158', 'itemName': 'Pudrowa Sukienka z Motywem Roślinnym14657-156-B', 'itemCategory': 'Sukienki na co Dzień', 'itemsViewed': '13081', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23061519', 'itemName': 'Beżowa Sukienka11932-133-A', 'itemCategory': 'Sukienki Eleganckie', 'itemsViewed': '12923', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071037', 'itemName': 'Beżowa Klasyczna Sukienka z Kieszeniami14619-501-A', 'itemCategory': 'Sukienki na co Dzień', 'itemsViewed': '12782', 'itemsPurchased': '0', 'itemRevenue': '0'}
+{'itemId': '23071734', 'itemName': 'Błękitna Plisowana Sukienka w Grochy14815-523-B', 'itemCategory': 'Sukienki na co Dzień', 'itemsViewed': '12639', 'itemsPurchased': '0', 'itemRevenue': '0'}
+
+=== TRANSACTIONS ANALYSIS ===
+Total transaction rows: 200
+Sum transactions: 320
+Sum ecommercePurchases: 320
+Sum purchaseRevenue: 69266.39 PLN
+Rows with (not set) transactionId: 0
+Sum transactions no ID: 0
+Rows with >1 transaction (duplicates): 99
+Top duplicates:
+  ID=14564069 tr=12 ep=12 rev=5159.520001
+  ID=14586462 tr=6 ep=6 rev=839.939995
+  ID=14587588 tr=6 ep=6 rev=1169.879992
+  ID=14572136 tr=3 ep=3 rev=239.969998
+  ID=14578366 tr=3 ep=3 rev=389.939999
+  ID=14586458 tr=3 ep=3 rev=419.969998
+  ID=14556195 tr=2 ep=2 rev=307.979999
+  ID=14556865 tr=2 ep=2 rev=379.940001
+  ID=14557163 tr=2 ep=2 rev=527.939996
+  ID=14557176 tr=2 ep=2 rev=349.959999
+
+=== DAILY KPI SUMMARY (30d) ===
+Sessions: 1858660
+ecommercePurchases: 31090
+purchaseRevenue: 6842879.83 PLN
+addToCarts: 249979
+checkouts: 81640
+CR (purchases/sessions): 1.673%
+AOV: 220.10 PLN
+
+=== SOURCE/MEDIUM KEY AGGREGATIONS ===
+Facebook total (all variants): sessions=703013, transactions=10137, revenue=1980994
+  Variants:
+    source=facebook medium=cpc sessions=546733
+    source=m.facebook.com medium=referral sessions=51530
+    source=fb medium=paid sessions=48461
+    source=lm.facebook.com medium=referral sessions=28769
+    source=facebook medium=traffic sessions=16365
+    source=l.facebook.com medium=referral sessions=8171
+    source=facebook.com medium=referral sessions=1442
+    source=fb medium=traffic sessions=1438
+    source=pl-pl.facebook.com medium=referral sessions=43
+    source=fb medium=cpc sessions=35
+    source=mobile.facebook.com medium=referral sessions=10
+    source=l.facebook.com medium=traffic sessions=9
+    source=m.facebook.com medium=traffic sessions=5
+    source=l.facebook.com medium=cpc sessions=2
+
+SALESmanago total (all mediums): sessions=45981, transactions=1499, revenue=413399
+  Variants:
+    medium=referral sessions=20410 trans=924 rev=283727.78994800005
+    medium=sms sessions=9672 trans=82 rev=18001.219993000006
+    medium=newsletter sessions=7040 trans=91 rev=21317.290018999996
+    medium=email_confirmation sessions=3406 trans=240 rev=52563.699996999996
+    medium=email sessions=3376 trans=34 rev=7011.5600069999991
+    medium=workflow sessions=1837 trans=124 rev=28680.239986000004
+    medium=referral sessions=228 trans=4 rev=2096.819998
+    medium=RFM 1WEB sessions=6 trans=0 rev=0
+    medium=test sessions=6 trans=0 rev=0
+
+TikTok total: sessions=19796, transactions=147, revenue=32126
+  Variants:
+    source=tiktok medium=paid sessions=10112
+    source=tiktok medium=cpc sessions=5317
+    source=tiktok medium=traffic sessions=3784
+    source=tiktok medium=(not set) sessions=311
+    source=tiktok.com medium=referral sessions=184
+    source=tiktok medium=referral sessions=76
+    source=tiktok?utm_id medium=paid sessions=12
+
+(not set) rows: sessions=61232, transactions=1136
+
+Criteo total: sessions=93208, transactions=1048, revenue=216357

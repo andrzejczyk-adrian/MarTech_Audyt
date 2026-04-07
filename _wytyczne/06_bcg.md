@@ -15,11 +15,11 @@ warunek_wejscia: ecommerce z kampaniami Shopping lub PMax z feedem + dostep do G
 ## Kryteria
 
 | id | kryterium | priorytet | dotyczy | jak_sprawdzic | warunek_ok | czerwona_flaga | max_pkt | uwagi |
-|----|-----------|-----------|---------|---------------|------------|----------------|---------|-------|
-| 6.1 | Gwiazdy w osobnych kampaniach lub asset groups | Wysoki | ecommerce+ads | Sprawdź czy top produkty BCG mają dedykowane grupy/kampanie z wyższym target ROAS | Gwiazdy wydzielone z własnym target ROAS | Gwiazdy i Psy w tej samej kampanii bez segmentacji | 3 | |
-| 6.2 | Dojne Krowy z ograniczonym target ROAS | Średni | ecommerce+ads | Sprawdź czy high-revenue/low-ROAS produkty mają ograniczenia budżetu | Dojne Krowy z CPC cap lub ograniczonym target ROAS | Brak ograniczeń na Dojnych Krowach | 2 | |
-| 6.3 | Psy wykluczone lub <5% budżetu | Średni | ecommerce+ads | % budżetu na Psy + czy wykluczone z głównych kampanii | Psy <5% budżetu lub wykluczone | Psy >20% budżetu bez uzasadnienia | 2 | |
-| 6.4 | Znaki Zapytania w wydzielonym teście | Średni | ecommerce+ads | Osobna kampania lub asset group lub niższy budżet dla ZQ | ZQ z dedykowanym testem | ZQ bez wydzielenia — brak danych o potencjale | 2 | |
+|---|---|---|---|---|---|---|---|---|
+| 6.1 | Gwiazdy w osobnych kampaniach lub asset groups | Wysoki | ecommerce+ads | Sprawdź czy top produkty BCG mają dedykowane grupy/kampanie z wyższym target ROAS | Gwiazdy wydzielone z własnym target ROAS | Gwiazdy i Psy w tej samej kampanii bez segmentacji | 3 |  |
+| 6.2 | Dojne Krowy z ograniczonym target ROAS | Średni | ecommerce+ads | Sprawdź czy high-revenue/low-ROAS produkty mają ograniczenia budżetu | Dojne Krowy z CPC cap lub ograniczonym target ROAS | Brak ograniczeń na Dojnych Krowach | 2 |  |
+| 6.3 | Psy wykluczone lub <5% budżetu | Średni | ecommerce+ads | % budżetu na Psy + czy wykluczone z głównych kampanii | Psy <5% budżetu lub wykluczone | Psy >20% budżetu bez uzasadnienia | 2 |  |
+| 6.4 | Znaki Zapytania w wydzielonym teście | Średni | ecommerce+ads | Osobna kampania lub asset group lub niższy budżet dla ZQ | ZQ z dedykowanym testem | ZQ bez wydzielenia — brak danych o potencjale | 2 |  |
 | 6.5 | Delta Ads vs GA4 ≤30% | Wysoki | ecommerce+ads | Oblicz delta_pct = (ads_revenue - ga4_cpc_revenue) / ads_revenue × 100 | Delta ≤15% | Delta >30% = błąd konfiguracji e-commerce tracking | 3 | ✅ ≤15% / ⚠️ 15-30% / ❌ >30% |
 
 ---
