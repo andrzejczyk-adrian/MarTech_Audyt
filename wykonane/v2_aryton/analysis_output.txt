@@ -1,0 +1,290 @@
+
+============================================================
+TOTALE 30d (9 mar - 8 kwi 2026)
+============================================================
+  Sesje:              330296
+  Uzytkownicy:        180654
+  Nowi:               126174
+  Transakcje:         427
+  ecommercePurchases: 1610
+  Przychod PLN:       529914.00
+  Engagement rate:    0.4779
+  Avg session dur:    899.3s
+  AOV:                1241.02 PLN
+  CR (trans/sess):    0.1293%
+
+============================================================
+TOTALE YoY (10 mar - 9 kwi 2025)
+============================================================
+  Sesje:              438646
+  Transakcje:         1495
+  ecommercePurchases: 1515
+  Przychod PLN:       1856701.00
+  AOV:                1241.94 PLN
+  CR (trans/sess):    0.3408%
+
+============================================================
+YoY DELTA
+============================================================
+  sessions_now: 330296
+  sessions_yoy: 438646
+  sessions_delta_pct: -24.7
+  transactions_now: 427
+  transactions_yoy: 1495
+  transactions_delta_pct: -71.4
+  revenue_now: 529914.00002499984
+  revenue_yoy: 1856701.0000750003
+  revenue_delta_pct: -71.5
+  aov_now: 1241.02
+  aov_yoy: 1241.94
+
+============================================================
+KANALY 30d (transactions, CR)
+============================================================
+  Cross-network                sess= 137557 trans=   70 rev=     74896 CR=0.0509% rev/sess=  0.54
+  Organic Search               sess=  80770 trans=  206 rev=    281223 CR= 0.255% rev/sess=  3.48
+  Paid Social                  sess=  58776 trans=   31 rev=     64782 CR=0.0527% rev/sess=   1.1
+  Email                        sess=  17721 trans=   37 rev=     45826 CR=0.2088% rev/sess=  2.59
+  Direct                       sess=  17459 trans=   19 rev=     21197 CR=0.1088% rev/sess=  1.21
+  Unassigned                   sess=  10547 trans=   30 rev=     13675 CR=0.2844% rev/sess=   1.3
+  Organic Social               sess=   4926 trans=    8 rev=      6756 CR=0.1624% rev/sess=  1.37
+  Display                      sess=   4675 trans=    8 rev=      8623 CR=0.1711% rev/sess=  1.84
+  Paid Search                  sess=   4600 trans=   14 rev=     11114 CR=0.3043% rev/sess=  2.42
+  SMS                          sess=   1710 trans=    0 rev=         0 CR=   0.0% rev/sess=   0.0
+  Referral                     sess=   1094 trans=    4 rev=      1822 CR=0.3656% rev/sess=  1.67
+  Organic Shopping             sess=    102 trans=    0 rev=         0 CR=   0.0% rev/sess=   0.0
+  Organic Video                sess=     44 trans=    0 rev=         0 CR=   0.0% rev/sess=   0.0
+
+============================================================
+KANALY YoY
+============================================================
+  Organic Search               sess= 141985 trans=  538 CR=0.3789%
+  Cross-network                sess=  84140 trans=  186 CR=0.2211%
+  Paid Search                  sess=  58884 trans=  171 CR=0.2904%
+  Paid Social                  sess=  51659 trans=   82 CR=0.1587%
+  Direct                       sess=  32297 trans=  212 CR=0.6564%
+  Email                        sess=  30609 trans=  159 CR=0.5195%
+  Unassigned                   sess=  20635 trans=   66 CR=0.3198%
+  Organic Social               sess=  14989 trans=   37 CR=0.2468%
+  Display                      sess=   8811 trans=   16 CR=0.1816%
+  Referral                     sess=   3393 trans=   19 CR=  0.56%
+  SMS                          sess=   2428 trans=    8 CR=0.3295%
+  Organic Video                sess=    266 trans=    1 CR=0.3759%
+  Organic Shopping             sess=    162 trans=    0 CR=   0.0%
+  Paid Video                   sess=    137 trans=    0 CR=   0.0%
+  Mobile Push Notifications    sess=    118 trans=    0 CR=   0.0%
+
+============================================================
+URZADZENIA 30d
+============================================================
+  mobile   sess= 259439 trans=  246 rev=    320216 CR=0.0948% AOV=1301.69
+  desktop  sess=  65243 trans=  180 rev=    209199 CR=0.2759% AOV=1162.22
+  tablet   sess=   4784 trans=    1 rev=       499 CR=0.0209% AOV=499.0
+  smart tv sess=      1 trans=    0 rev=         0 CR=   0.0% AOV=0
+
+============================================================
+URZADZENIA YoY
+============================================================
+  mobile   sess= 318860 trans=  919 CR=0.2882%
+  desktop  sess= 120419 trans=  561 CR=0.4659%
+  tablet   sess=   8090 trans=   15 CR=0.1854%
+  smart tv sess=      1 trans=    0 CR=   0.0%
+
+============================================================
+HOSTNAMES (platforma)
+============================================================
+  patrizia.aryton.pl                            sess= 330296 trans=413
+  dev18.arytondev.pl                            sess=     26 trans=1
+  dev18.arytondev.local                         sess=     14 trans=0
+  aryton81.local                                sess=      7 trans=0
+  aryton.b-cdn.net                              sess=      2 trans=0
+  patrizia-aryton-pl.translate.goog             sess=      1 trans=0
+  (not set)                                     sess=      0 trans=13
+
+============================================================
+TRANSAKCJE - ANALIZA DUPLIKATOW
+============================================================
+  Unikalne transaction IDs: 1534
+  Sum transactions:         427.0
+  Sum ecommercePurchases:   1610.0
+  Ratio ePurch/trans:       3.7705
+  Realnie zduplikowane:     0
+  not-set count:            1, revenue: 0 PLN
+  Malformed IDs:            1105
+  Zero revenue IDs:         1106
+  Zero revenue sample: ['', '210032&key=1abe2783234b4109f15a80bdd3246c14', '210033&key=1abe2783234b4109f15a80bdd3246c14', '210034&key=1abe2783234b4109f15a80bdd3246c14', '210035&key=1abe2783234b4109f15a80bdd3246c14']
+
+============================================================
+TOP 15 TRANSAKCJI (po ecommercePurchases desc)
+============================================================
+  ID=(not set)                      trans=0    ePurch=89   rev=    0.00
+  ID=                               trans=0    ePurch=2    rev=    0.00
+  ID=210034                         trans=1    ePurch=1    rev= 2069.00
+  ID=221110                         trans=1    ePurch=1    rev= 3799.00
+  ID=222970                         trans=1    ePurch=1    rev=  881.00
+  ID=224562                         trans=1    ePurch=1    rev= 5047.00
+  ID=224679                         trans=1    ePurch=1    rev=  599.00
+  ID=224683                         trans=1    ePurch=1    rev= 3508.00
+  ID=224693                         trans=1    ePurch=1    rev= 4138.00
+  ID=224696                         trans=1    ePurch=1    rev=  899.00
+  ID=224699                         trans=1    ePurch=1    rev=  449.00
+  ID=224700                         trans=1    ePurch=1    rev= 1258.00
+  ID=224707                         trans=1    ePurch=1    rev= 1698.00
+  ID=224715                         trans=1    ePurch=1    rev=  649.00
+  ID=224717                         trans=1    ePurch=1    rev=  758.00
+
+============================================================
+PRODUKTY - ANALIZA
+============================================================
+  Total produktow: 100
+  Z przychodem>0:  100
+  Z zakupami>0:    100
+  Wszystkie zero:  False
+  TOP 10 po przychodzie:
+    [26271   ] Camelowy płaszcz teddy bear z wełną purch=8    rev=27992.00
+    [26271   ] Camelowy płaszcz teddy bear z wełną purch=7    rev=24493.00
+    [26420   ] Brązowa kurtka ze skóry zamszowej ( purch=6    rev=23994.00
+    [26325   ] Czarna kurtka bomberka z jedwabiem  purch=9    rev=20691.00
+    [22390   ] Długi bawełniany trencz beżowy z pa purch=11   rev=18469.00
+    [26204   ] Beżowa dwurzędowa kurtka z wełny (K purch=14   rev=17486.00
+    [26427   ] Niebieskie zwężane jeansy z wysokim purch=18   rev=14382.00
+    [23206   ] Camelowy bawełniany płaszcz z paski purch=11   rev=14289.00
+    [26020   ] Płaszcz camel z wełny wielbłądziej  purch=2    rev=13998.00
+    [26526   ] Czekoladowa skórzana torebka z chwo purch=6    rev=13794.00
+
+============================================================
+PRODUKTY YoY (TOP 5)
+============================================================
+  YoY produkty z rev>0: 30
+    [09009-32] Beżowy płaszcz trencz z paskiem Mar purch=11   rev=26389.00
+    [08847-19] Czarny bawełniany trencz z paskiem  purch=9    rev=23391.00
+    [10322-11] Białe buty sportowe                 purch=23   rev=20677.00
+    [10048-12] Szara kurtka z jedwabiem doubleface purch=7    rev=20293.00
+    [08844-97] Jeansy z szeroką nogawką            purch=22   rev=19778.00
+
+============================================================
+SOURCE/MEDIUM TOP 20 (30d)
+============================================================
+  google/cpc             sess= 142854 trans=90    rev=     92185
+  google/organic         sess=  75838 trans=173   rev=    241879
+  facebook/cpc             sess=  58776 trans=31    rev=     64782
+  edrone/email           sess=  17711 trans=37    rev=     45826
+  (direct)/(none)          sess=  17459 trans=19    rev=     21197
+  (not set)/(not set)       sess=  10502 trans=30    rev=     13675
+  (data not available)/(data not available) sess=   3548 trans=2     rev=      2448
+  bing/organic         sess=   2859 trans=26    rev=     30063
+  m.facebook.com/referral        sess=   1736 trans=4     rev=      3821
+  sms/smsapi          sess=   1708 trans=0     rev=         0
+  l.instagram.com/referral        sess=   1703 trans=1     rev=      1198
+  l.facebook.com/referral        sess=    706 trans=0     rev=         0
+  pl.search.yahoo.com/referral        sess=    626 trans=2     rev=      2633
+  google/maps            sess=    558 trans=2     rev=      3527
+  facebook/referral        sess=    366 trans=3     rev=      1737
+  lm.facebook.com/referral        sess=    365 trans=0     rev=         0
+  poczta.onet.pl/referral        sess=    191 trans=0     rev=         0
+  ig/social          sess=    113 trans=0     rev=         0
+  search.brave.com/referral        sess=    109 trans=0     rev=         0
+  ntp.msn.com/referral        sess=    103 trans=3     rev=      3121
+
+============================================================
+DZIENNY TREND 30d
+============================================================
+  20260309 sess= 6613 trans=13   rev=    7800
+  20260310 sess= 7112 trans=17   rev=   29095
+  20260311 sess= 8063 trans=25   rev=   35822
+  20260312 sess= 7637 trans=12   rev=   18373
+  20260313 sess= 7733 trans=15   rev=   15271
+  20260314 sess=10048 trans=8    rev=    5940
+  20260315 sess= 9644 trans=13   rev=   14203
+  20260316 sess= 8369 trans=12   rev=    8783
+  20260317 sess=10749 trans=9    rev=    5466
+  20260318 sess= 9295 trans=12   rev=   11717
+  20260319 sess= 9694 trans=12   rev=   18260
+  20260320 sess=11933 trans=24   rev=   24965
+  20260321 sess=11295 trans=27   rev=   21569
+  20260322 sess=13817 trans=23   rev=   30598
+  20260323 sess=12675 trans=12   rev=   14664
+  20260324 sess=13665 trans=2    rev=    3085
+  20260325 sess=14385 trans=8    rev=    8749
+  20260326 sess=12304 trans=19   rev=   19337
+  20260327 sess=11849 trans=16   rev=   22920
+  20260328 sess=10206 trans=16   rev=   20587
+  20260329 sess=11830 trans=15   rev=   20809
+  20260330 sess=10927 trans=14   rev=   18373
+  20260331 sess=11425 trans=29   rev=   44627
+  20260401 sess=10956 trans=22   rev=   37239
+  20260402 sess= 8551 trans=7    rev=    5782
+  20260403 sess=10178 trans=5    rev=    4415
+  20260404 sess= 9564 trans=0    rev=       0
+  20260405 sess= 9476 trans=3    rev=    2756
+  20260406 sess=13301 trans=7    rev=    5947
+  20260407 sess=12663 trans=16   rev=   37895
+  20260408 sess=13610 trans=14   rev=   14867
+
+============================================================
+DZIENNY TREND YoY
+============================================================
+  20250310 sess=14014 trans=47   rev=   55368
+  20250311 sess=15018 trans=74   rev=  107169
+  20250312 sess=14933 trans=27   rev=   25233
+  20250313 sess=14808 trans=57   rev=   67269
+  20250314 sess=16064 trans=125  rev=  187793
+  20250315 sess=15023 trans=51   rev=   55329
+  20250316 sess=17434 trans=72   rev=   95530
+  20250317 sess=16001 trans=21   rev=   17148
+  20250318 sess=15202 trans=33   rev=   39969
+  20250319 sess=13293 trans=53   rev=   63687
+  20250320 sess=14511 trans=52   rev=   69876
+  20250321 sess=13840 trans=30   rev=   37922
+  20250322 sess=13671 trans=36   rev=   42492
+  20250323 sess=15258 trans=42   rev=   52141
+  20250324 sess=13623 trans=20   rev=   23235
+  20250325 sess=14996 trans=31   rev=   30126
+  20250326 sess=19026 trans=113  rev=  145822
+  20250327 sess=14525 trans=75   rev=   94360
+  20250328 sess=13054 trans=38   rev=   38969
+  20250329 sess=12811 trans=47   rev=   59120
+  20250330 sess=15701 trans=71   rev=   92319
+  20250331 sess=13116 trans=110  rev=  138935
+  20250401 sess=15370 trans=24   rev=   28359
+  20250402 sess=13083 trans=41   rev=   45710
+  20250403 sess=13823 trans=19   rev=   25172
+  20250404 sess=13103 trans=22   rev=   26855
+  20250405 sess=12887 trans=23   rev=   33708
+  20250406 sess=14339 trans=18   rev=   16770
+  20250407 sess=13926 trans=26   rev=   28085
+  20250408 sess=12966 trans=15   rev=   12306
+  20250409 sess=15961 trans=82   rev=   99924
+
+============================================================
+REFERRALS TOP 15
+============================================================
+  m.facebook.com                           sess=  1736 trans=4    rev=    3821
+  l.instagram.com                          sess=  1703 trans=1    rev=    1198
+  l.facebook.com                           sess=   706 trans=0    rev=       0
+  pl.search.yahoo.com                      sess=   626 trans=2    rev=    2633
+  facebook                                 sess=   366 trans=3    rev=    1737
+  lm.facebook.com                          sess=   365 trans=0    rev=       0
+  poczta.onet.pl                           sess=   191 trans=0    rev=       0
+  search.brave.com                         sess=   109 trans=0    rev=       0
+  ntp.msn.com                              sess=   103 trans=3    rev=    3121
+  poczta.interia.pl                        sess=    88 trans=0    rev=       0
+  facebook.com                             sess=    86 trans=0    rev=       0
+  poczta.o2.pl                             sess=    83 trans=0    rev=       0
+  zasobygwp.pl                             sess=    75 trans=1    rev=     305
+  statics.teams.cdn.office.net             sess=    72 trans=0    rev=       0
+  klarna                                   sess=    55 trans=0    rev=       0
+
+============================================================
+LANDING PAGES TOP 10
+============================================================
+  /                                             sess=  86825 trans=161  CR=0.19%
+  /kolekcja/effortless-mood                     sess=  19660 trans=4    CR=0.02%
+  /c/390-nowosci                                sess=  19195 trans=13   CR=0.07%
+  /c/414-spodnie                                sess=  17799 trans=2    CR=0.01%
+  /c/705-promocja                               sess=  16305 trans=5    CR=0.03%
+  /c/412-bluzki                                 sess=  15163 trans=0    CR=0.00%
+  /p/26307-sukienka-z-jedwabiu.html             sess=  13252 trans=0    CR=0.00%
+  /c/1241-wiosna-lato-2026                      sess=  12379 trans=0    CR=0.00%
+                                                sess=   9920 trans=6    CR=0.06%
+  /c/434-outlet                                 sess=   7069 trans=8    CR=0.11%

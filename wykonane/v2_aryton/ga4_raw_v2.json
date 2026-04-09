@@ -1,0 +1,4236 @@
+{
+  "totals_30d": {
+    "sessions": "330296",
+    "totalUsers": "180654",
+    "newUsers": "126174",
+    "transactions": "427",
+    "ecommercePurchases": "1610",
+    "purchaseRevenue": "529914.00002499984",
+    "engagementRate": "0.477937970789837",
+    "averageSessionDuration": "899.30666592848547"
+  },
+  "events_30d": [
+    {
+      "eventName": "page_view",
+      "eventCount": "1421840",
+      "eventCountPerUser": "8.13009617693812"
+    },
+    {
+      "eventName": "user_engagement",
+      "eventCount": "878052",
+      "eventCountPerUser": "7.1349796445722919"
+    },
+    {
+      "eventName": "view_item_list",
+      "eventCount": "863250",
+      "eventCountPerUser": "11.437259032552964"
+    },
+    {
+      "eventName": "session_start",
+      "eventCount": "697960",
+      "eventCountPerUser": "3.9810631987223362"
+    },
+    {
+      "eventName": "first_visit",
+      "eventCount": "634875",
+      "eventCountPerUser": "2.9995747797122676"
+    },
+    {
+      "eventName": "view_item",
+      "eventCount": "613824",
+      "eventCountPerUser": "5.9128424459600044"
+    },
+    {
+      "eventName": "login",
+      "eventCount": "473470",
+      "eventCountPerUser": "4.2359203757548647"
+    },
+    {
+      "eventName": "scroll",
+      "eventCount": "244895",
+      "eventCountPerUser": "3.8095201057789532"
+    },
+    {
+      "eventName": "menu_click",
+      "eventCount": "154284",
+      "eventCountPerUser": "5.9358264081255774"
+    },
+    {
+      "eventName": "form_start",
+      "eventCount": "55629",
+      "eventCountPerUser": "4.6138342871361031"
+    },
+    {
+      "eventName": "Click - Znajdz w salonie",
+      "eventCount": "35848",
+      "eventCountPerUser": "4.835828949143397"
+    },
+    {
+      "eventName": "add_to_cart",
+      "eventCount": "33068",
+      "eventCountPerUser": "5.50216306156406"
+    },
+    {
+      "eventName": "view_search_results",
+      "eventCount": "12266",
+      "eventCountPerUser": "3.9954397394136807"
+    },
+    {
+      "eventName": "form_submit",
+      "eventCount": "11575",
+      "eventCountPerUser": "3.1436719174361758"
+    },
+    {
+      "eventName": "slider_klik",
+      "eventCount": "9965",
+      "eventCountPerUser": "1.8174357103775305"
+    },
+    {
+      "eventName": "add_to_wishlist",
+      "eventCount": "8369",
+      "eventCountPerUser": "5.029447115384615"
+    },
+    {
+      "eventName": "view_cart",
+      "eventCount": "5319",
+      "eventCountPerUser": "3.5939189189189191"
+    },
+    {
+      "eventName": "search",
+      "eventCount": "2527",
+      "eventCountPerUser": "3.0892420537897309"
+    },
+    {
+      "eventName": "add_shipping_info",
+      "eventCount": "2186",
+      "eventCountPerUser": "3.8350877192982455"
+    },
+    {
+      "eventName": "mailalert_button_click",
+      "eventCount": "1910",
+      "eventCountPerUser": "1.9792746113989637"
+    },
+    {
+      "eventName": "purchase",
+      "eventCount": "1610",
+      "eventCountPerUser": "1.7538126361655773"
+    },
+    {
+      "eventName": "click",
+      "eventCount": "1567",
+      "eventCountPerUser": "1.9710691823899371"
+    },
+    {
+      "eventName": "product-desc",
+      "eventCount": "1462",
+      "eventCountPerUser": "1.8275"
+    },
+    {
+      "eventName": "begin_checkout",
+      "eventCount": "1318",
+      "eventCountPerUser": "1.9969696969696971"
+    },
+    {
+      "eventName": "dołącz do PL",
+      "eventCount": "1002",
+      "eventCountPerUser": "6.3417721518987342"
+    },
+    {
+      "eventName": "add_payment_info",
+      "eventCount": "823",
+      "eventCountPerUser": "1.7217573221757323"
+    },
+    {
+      "eventName": "slider_klik_kropki",
+      "eventCount": "686",
+      "eventCountPerUser": "3.7692307692307692"
+    },
+    {
+      "eventName": "snippet_text",
+      "eventCount": "603",
+      "eventCountPerUser": "1.1988071570576542"
+    },
+    {
+      "eventName": "file_download",
+      "eventCount": "569",
+      "eventCountPerUser": "1.4627249357326477"
+    },
+    {
+      "eventName": "remove_from_cart",
+      "eventCount": "405",
+      "eventCountPerUser": "2.3546511627906979"
+    },
+    {
+      "eventName": "Blog",
+      "eventCount": "79",
+      "eventCountPerUser": "3.5909090909090908"
+    },
+    {
+      "eventName": "sign_up",
+      "eventCount": "25",
+      "eventCountPerUser": "1"
+    },
+    {
+      "eventName": "refund",
+      "eventCount": "13",
+      "eventCountPerUser": "0"
+    }
+  ],
+  "source_medium_30d": [
+    {
+      "sessionSource": "google",
+      "sessionMedium": "cpc",
+      "sessions": "142854",
+      "transactions": "90",
+      "purchaseRevenue": "92185.00000900001",
+      "engagementRate": "0.41810519831436294"
+    },
+    {
+      "sessionSource": "google",
+      "sessionMedium": "organic",
+      "sessions": "75838",
+      "transactions": "173",
+      "purchaseRevenue": "241878.99998100003",
+      "engagementRate": "0.56672116880719425"
+    },
+    {
+      "sessionSource": "facebook",
+      "sessionMedium": "cpc",
+      "sessions": "58776",
+      "transactions": "31",
+      "purchaseRevenue": "64781.999992",
+      "engagementRate": "0.40186470668299984"
+    },
+    {
+      "sessionSource": "edrone",
+      "sessionMedium": "email",
+      "sessions": "17711",
+      "transactions": "37",
+      "purchaseRevenue": "45826.000012000004",
+      "engagementRate": "0.56908136186550728"
+    },
+    {
+      "sessionSource": "(direct)",
+      "sessionMedium": "(none)",
+      "sessions": "17459",
+      "transactions": "19",
+      "purchaseRevenue": "21197.000005",
+      "engagementRate": "0.56647001546480324"
+    },
+    {
+      "sessionSource": "(not set)",
+      "sessionMedium": "(not set)",
+      "sessions": "10502",
+      "transactions": "30",
+      "purchaseRevenue": "13675.000019",
+      "engagementRate": "0.25604646733955438"
+    },
+    {
+      "sessionSource": "(data not available)",
+      "sessionMedium": "(data not available)",
+      "sessions": "3548",
+      "transactions": "2",
+      "purchaseRevenue": "2448.000002",
+      "engagementRate": "0.24436302142051861"
+    },
+    {
+      "sessionSource": "bing",
+      "sessionMedium": "organic",
+      "sessions": "2859",
+      "transactions": "26",
+      "purchaseRevenue": "30063.000004",
+      "engagementRate": "0.763553690101434"
+    },
+    {
+      "sessionSource": "m.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "1736",
+      "transactions": "4",
+      "purchaseRevenue": "3820.9999989999997",
+      "engagementRate": "0.48559907834101385"
+    },
+    {
+      "sessionSource": "sms",
+      "sessionMedium": "smsapi",
+      "sessions": "1708",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.50585480093676816"
+    },
+    {
+      "sessionSource": "l.instagram.com",
+      "sessionMedium": "referral",
+      "sessions": "1703",
+      "transactions": "1",
+      "purchaseRevenue": "1198.000002",
+      "engagementRate": "0.49853200234879624"
+    },
+    {
+      "sessionSource": "l.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "706",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.50141643059490082"
+    },
+    {
+      "sessionSource": "pl.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "626",
+      "transactions": "2",
+      "purchaseRevenue": "2633.0000010000003",
+      "engagementRate": "0.73003194888178913"
+    },
+    {
+      "sessionSource": "google",
+      "sessionMedium": "maps",
+      "sessions": "558",
+      "transactions": "2",
+      "purchaseRevenue": "3527.0000010000003",
+      "engagementRate": "0.57168458781362008"
+    },
+    {
+      "sessionSource": "facebook",
+      "sessionMedium": "referral",
+      "sessions": "366",
+      "transactions": "3",
+      "purchaseRevenue": "1737.0000049999999",
+      "engagementRate": "0.50273224043715847"
+    },
+    {
+      "sessionSource": "lm.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "365",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.23013698630136986"
+    },
+    {
+      "sessionSource": "poczta.onet.pl",
+      "sessionMedium": "referral",
+      "sessions": "191",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.643979057591623"
+    },
+    {
+      "sessionSource": "ig",
+      "sessionMedium": "social",
+      "sessions": "113",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.51327433628318586"
+    },
+    {
+      "sessionSource": "search.brave.com",
+      "sessionMedium": "referral",
+      "sessions": "109",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.56880733944954132"
+    },
+    {
+      "sessionSource": "ntp.msn.com",
+      "sessionMedium": "referral",
+      "sessions": "103",
+      "transactions": "3",
+      "purchaseRevenue": "3120.9999970000003",
+      "engagementRate": "0.79611650485436891"
+    },
+    {
+      "sessionSource": "duckduckgo",
+      "sessionMedium": "organic",
+      "sessions": "96",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.57291666666666663"
+    },
+    {
+      "sessionSource": "poczta.interia.pl",
+      "sessionMedium": "referral",
+      "sessions": "88",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.56818181818181823"
+    },
+    {
+      "sessionSource": "facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "86",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.60465116279069764"
+    },
+    {
+      "sessionSource": "poczta.o2.pl",
+      "sessionMedium": "referral",
+      "sessions": "83",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.48192771084337349"
+    },
+    {
+      "sessionSource": "TrustMate.io",
+      "sessionMedium": "link",
+      "sessions": "79",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.58227848101265822"
+    },
+    {
+      "sessionSource": "zasobygwp.pl",
+      "sessionMedium": "referral",
+      "sessions": "75",
+      "transactions": "1",
+      "purchaseRevenue": "305",
+      "engagementRate": "0.61333333333333329"
+    },
+    {
+      "sessionSource": "statics.teams.cdn.office.net",
+      "sessionMedium": "referral",
+      "sessions": "72",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.69444444444444442"
+    },
+    {
+      "sessionSource": "klarna",
+      "sessionMedium": "referral",
+      "sessions": "55",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.34545454545454546"
+    },
+    {
+      "sessionSource": "poczta.wp.pl",
+      "sessionMedium": "referral",
+      "sessions": "46",
+      "transactions": "1",
+      "purchaseRevenue": "719",
+      "engagementRate": "0.73913043478260865"
+    },
+    {
+      "sessionSource": "chatgpt.com",
+      "sessionMedium": "(not set)",
+      "sessions": "45",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.51111111111111107"
+    },
+    {
+      "sessionSource": "youtube.com",
+      "sessionMedium": "referral",
+      "sessions": "44",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.61363636363636365"
+    },
+    {
+      "sessionSource": "rabatio.com",
+      "sessionMedium": "referral",
+      "sessions": "38",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.57894736842105265"
+    },
+    {
+      "sessionSource": "mail.google.com",
+      "sessionMedium": "referral",
+      "sessions": "37",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.56756756756756754"
+    },
+    {
+      "sessionSource": "nl.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "35",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.65714285714285714"
+    },
+    {
+      "sessionSource": "mariagajek.pl",
+      "sessionMedium": "referral",
+      "sessions": "34",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.47058823529411764"
+    },
+    {
+      "sessionSource": "qwant.com",
+      "sessionMedium": "organic",
+      "sessions": "34",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.6470588235294118"
+    },
+    {
+      "sessionSource": "kastyle.pl",
+      "sessionMedium": "referral",
+      "sessions": "32",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "ecosia.org",
+      "sessionMedium": "organic",
+      "sessions": "30",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.4"
+    },
+    {
+      "sessionSource": "arytonpl.sharepoint.com",
+      "sessionMedium": "referral",
+      "sessions": "28",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.8571428571428571"
+    },
+    {
+      "sessionSource": "szukaj.interia.pl",
+      "sessionMedium": "referral",
+      "sessions": "25",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.72"
+    },
+    {
+      "sessionSource": "instagram",
+      "sessionMedium": "referral",
+      "sessions": "22",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.45454545454545453"
+    },
+    {
+      "sessionSource": "emea.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "21",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.66666666666666663"
+    },
+    {
+      "sessionSource": "kadaza.pl",
+      "sessionMedium": "referral",
+      "sessions": "19",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.631578947368421"
+    },
+    {
+      "sessionSource": "westfield.com",
+      "sessionMedium": "referral",
+      "sessions": "18",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.72222222222222221"
+    },
+    {
+      "sessionSource": "e.mail.ru",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.6428571428571429"
+    },
+    {
+      "sessionSource": "gemini.google.com",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.7857142857142857"
+    },
+    {
+      "sessionSource": "krknews.pl",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.21428571428571427"
+    },
+    {
+      "sessionSource": "zielonearkady.com.pl",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5714285714285714"
+    },
+    {
+      "sessionSource": "styl.fm",
+      "sessionMedium": "referral",
+      "sessions": "11",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.72727272727272729"
+    },
+    {
+      "sessionSource": "dev18.arytondev.local",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.7"
+    },
+    {
+      "sessionSource": "email.inbox.lv",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.8"
+    },
+    {
+      "sessionSource": "privacywall.org",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.7"
+    },
+    {
+      "sessionSource": "salesmanago.lightning.force.com",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.9"
+    },
+    {
+      "sessionSource": "yahoo",
+      "sessionMedium": "organic",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.6"
+    },
+    {
+      "sessionSource": "pl.pinterest.com",
+      "sessionMedium": "referral",
+      "sessions": "9",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.77777777777777779"
+    },
+    {
+      "sessionSource": "825cfeb46b5e71bf82a61c1f8ffafe7c.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "8",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.625"
+    },
+    {
+      "sessionSource": "app.snov.io",
+      "sessionMedium": "referral",
+      "sessions": "8",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "galeria-kaskada.pl",
+      "sessionMedium": "referral",
+      "sessions": "8",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.625"
+    },
+    {
+      "sessionSource": "1e2b4c34a385aa2ec922d31a31b5c732.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.42857142857142855"
+    },
+    {
+      "sessionSource": "dominikanska.gcity.pl",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.42857142857142855"
+    },
+    {
+      "sessionSource": "dropbox.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5714285714285714"
+    },
+    {
+      "sessionSource": "instagram.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.2857142857142857"
+    },
+    {
+      "sessionSource": "manufaktura.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.7142857142857143"
+    },
+    {
+      "sessionSource": "swisscows.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.7142857142857143"
+    },
+    {
+      "sessionSource": "canva.com",
+      "sessionMedium": "referral",
+      "sessions": "6",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.66666666666666663"
+    },
+    {
+      "sessionSource": "dziswlodzi.pl",
+      "sessionMedium": "referral",
+      "sessions": "6",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "metric.picodi.com",
+      "sessionMedium": "referral",
+      "sessions": "6",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.66666666666666663"
+    },
+    {
+      "sessionSource": "chatgpt.com",
+      "sessionMedium": "referral",
+      "sessions": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.4"
+    },
+    {
+      "sessionSource": "github.com",
+      "sessionMedium": "referral",
+      "sessions": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.8"
+    },
+    {
+      "sessionSource": "googleads.g.doubleclick.net",
+      "sessionMedium": "referral",
+      "sessions": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.6"
+    },
+    {
+      "sessionSource": "jestemkasia.com",
+      "sessionMedium": "referral",
+      "sessions": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.2"
+    },
+    {
+      "sessionSource": "newsletter",
+      "sessionMedium": "email",
+      "sessions": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.2"
+    },
+    {
+      "sessionSource": "pl-pl.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.4"
+    },
+    {
+      "sessionSource": "FB",
+      "sessionMedium": "FB-wydarzenie-lanocha",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.75"
+    },
+    {
+      "sessionSource": "app.clickup.com",
+      "sessionMedium": "referral",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "away.vk.ru",
+      "sessionMedium": "referral",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.25"
+    },
+    {
+      "sessionSource": "centrumriviera.pl",
+      "sessionMedium": "referral",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "de.manufaktura.com",
+      "sessionMedium": "referral",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.75"
+    },
+    {
+      "sessionSource": "fashionpost.pl",
+      "sessionMedium": "referral",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "gazetki.pl",
+      "sessionMedium": "referral",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "perplexity",
+      "sessionMedium": "(not set)",
+      "sessions": "4",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "bit.ly",
+      "sessionMedium": "referral",
+      "sessions": "3",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "fb_post",
+      "sessionMedium": "fb_post",
+      "sessions": "3",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "google&utm_medium=cpc&utm_campaign=SEA_|_Brand_|_Aryton&utm_id=19091733253&utm_term=kurtka patrizia aryton&utm_content=638313710563&gad_source=1&gad_campaignid=19091733253&gclid=Cj0KCQiAyvHLBhDlARIsAHxl6xoik5yL3JOBB8NwSQIb0KLT1rdDa0aUXeSLa5DAAZEDmBNML8ejJnYaAtEHEALw_wcB",
+      "sessionMedium": "(not set)",
+      "sessions": "3",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "joor.lightning.force.com",
+      "sessionMedium": "referral",
+      "sessions": "3",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.33333333333333331"
+    },
+    {
+      "sessionSource": "login.microsoftonline.com",
+      "sessionMedium": "referral",
+      "sessions": "3",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.66666666666666663"
+    },
+    {
+      "sessionSource": "2950bede55c598503650c87bac264e87.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "ch.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "ef7808a53da7fb1d7051a5fae821780a.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "google&utm_medium=cpc&utm_campaign=SEA_|_Brand_|_Aryton&utm_id=19091733253&utm_term=płaszcze patrizia aryton&utm_content=638315944549&gad_source=1&gad_campaignid=19091733253&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X2cOgQF0LkhYCLblBS42ajD_rU4Qm1WnInIRolVnnS8eR8Ojb1BpQcaAuflEALw_wcB",
+      "sessionMedium": "(not set)",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "parafrazy.pl",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "pinterest.com",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.5"
+    },
+    {
+      "sessionSource": "poczta.gazeta.pl",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "2",
+      "purchaseRevenue": "798",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "smsapi",
+      "sessionMedium": "sms",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "suche.t-online.de",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "tribuo.pl",
+      "sessionMedium": "referral",
+      "sessions": "2",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "1ccc9946c835b26b5868a53c87b4ce8e.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "341dd64a64fa96cee92c3368115bd96a.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "a9a8d14ffef4397f5e1ae89c2994b24b.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "admin.edrone.me:8443",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "control.edrone.me",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "copilot.com",
+      "sessionMedium": "(not set)",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "copilot.com",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "kuplio.pl",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "mamyje.pl",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    },
+    {
+      "sessionSource": "radioszczecin.pl",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0"
+    },
+    {
+      "sessionSource": "sms",
+      "sessionMedium": "referral",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "1"
+    }
+  ],
+  "transactions_30d": [
+    {
+      "transactionId": "(not set)",
+      "transactions": "0",
+      "ecommercePurchases": "89",
+      "purchaseRevenue": "0"
+    },
+    {
+      "transactionId": "",
+      "transactions": "0",
+      "ecommercePurchases": "2",
+      "purchaseRevenue": "0"
+    },
+    {
+      "transactionId": "210034",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "2069.000002"
+    },
+    {
+      "transactionId": "221110",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3798.999999"
+    },
+    {
+      "transactionId": "222970",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "881.000001"
+    },
+    {
+      "transactionId": "224562",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "5047.000001"
+    },
+    {
+      "transactionId": "224679",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "598.999999"
+    },
+    {
+      "transactionId": "224683",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3508.000001"
+    },
+    {
+      "transactionId": "224693",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "4138"
+    },
+    {
+      "transactionId": "224696",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "899"
+    },
+    {
+      "transactionId": "224699",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "448.999999"
+    },
+    {
+      "transactionId": "224700",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1257.999998"
+    },
+    {
+      "transactionId": "224707",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1698.000001"
+    },
+    {
+      "transactionId": "224715",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "649.000001"
+    },
+    {
+      "transactionId": "224717",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "758"
+    },
+    {
+      "transactionId": "224719",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3677"
+    },
+    {
+      "transactionId": "224721",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "898.999999"
+    },
+    {
+      "transactionId": "224722",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1079.000001"
+    },
+    {
+      "transactionId": "224725",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "769"
+    },
+    {
+      "transactionId": "224729",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "698.999999"
+    },
+    {
+      "transactionId": "224737",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "2478.000001"
+    },
+    {
+      "transactionId": "224742",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1499"
+    },
+    {
+      "transactionId": "224749",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "2515.999998"
+    },
+    {
+      "transactionId": "224753",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1728.000002"
+    },
+    {
+      "transactionId": "224755",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1079.000001"
+    },
+    {
+      "transactionId": "224756",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "4974.999998"
+    },
+    {
+      "transactionId": "224760",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "493.999998"
+    },
+    {
+      "transactionId": "224766",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1399"
+    },
+    {
+      "transactionId": "224772",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "898.999999"
+    },
+    {
+      "transactionId": "224775",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3196.999998"
+    },
+    {
+      "transactionId": "224776",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "898.999999"
+    },
+    {
+      "transactionId": "224778",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1478"
+    },
+    {
+      "transactionId": "224783",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "809"
+    },
+    {
+      "transactionId": "224794",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1517.999998"
+    },
+    {
+      "transactionId": "224799",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1169.000002"
+    },
+    {
+      "transactionId": "224801",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "719"
+    },
+    {
+      "transactionId": "224805",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "719"
+    },
+    {
+      "transactionId": "224806",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "448.999999"
+    },
+    {
+      "transactionId": "224807",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1199"
+    },
+    {
+      "transactionId": "224821",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3039.000001"
+    },
+    {
+      "transactionId": "224832",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "628.999999"
+    },
+    {
+      "transactionId": "224836",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1259"
+    },
+    {
+      "transactionId": "224839",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "2797.999998"
+    },
+    {
+      "transactionId": "224843",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "479.000001"
+    },
+    {
+      "transactionId": "224848",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "959"
+    },
+    {
+      "transactionId": "224849",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1709.000001"
+    },
+    {
+      "transactionId": "224853",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "628.999999"
+    },
+    {
+      "transactionId": "224854",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1039.000001"
+    },
+    {
+      "transactionId": "224856",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "2048.000001"
+    },
+    {
+      "transactionId": "224862",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "959"
+    },
+    {
+      "transactionId": "224873",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3036"
+    },
+    {
+      "transactionId": "224881",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1999"
+    },
+    {
+      "transactionId": "224883",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1399.000001"
+    },
+    {
+      "transactionId": "224885",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3914"
+    },
+    {
+      "transactionId": "224887",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "599"
+    },
+    {
+      "transactionId": "224897",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "719"
+    },
+    {
+      "transactionId": "224898",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1477.999999"
+    },
+    {
+      "transactionId": "224907",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1358"
+    },
+    {
+      "transactionId": "224910",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1198.000001"
+    },
+    {
+      "transactionId": "224913",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1299"
+    },
+    {
+      "transactionId": "224919",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "879"
+    },
+    {
+      "transactionId": "224921",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "539"
+    },
+    {
+      "transactionId": "224925",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "299.000001"
+    },
+    {
+      "transactionId": "224926",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "719.000001"
+    },
+    {
+      "transactionId": "224927",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "4497.999999"
+    },
+    {
+      "transactionId": "224933",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3498.000001"
+    },
+    {
+      "transactionId": "224936",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1976.999999"
+    },
+    {
+      "transactionId": "224940",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "848.999998"
+    },
+    {
+      "transactionId": "224945",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1099"
+    },
+    {
+      "transactionId": "224948",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "659.000001"
+    },
+    {
+      "transactionId": "224954",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1398.999999"
+    },
+    {
+      "transactionId": "224958",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "838.999999"
+    },
+    {
+      "transactionId": "224960",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "3599.000001"
+    },
+    {
+      "transactionId": "224964",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "999.000001"
+    },
+    {
+      "transactionId": "224969",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1249.000001"
+    },
+    {
+      "transactionId": "224986",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1299.000001"
+    },
+    {
+      "transactionId": "224989",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1099.000001"
+    },
+    {
+      "transactionId": "224995",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1347"
+    },
+    {
+      "transactionId": "224997",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "899.000001"
+    },
+    {
+      "transactionId": "225002",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "809"
+    },
+    {
+      "transactionId": "225005",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "549.000001"
+    },
+    {
+      "transactionId": "225013",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1099.000001"
+    },
+    {
+      "transactionId": "225016",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1197.999999"
+    },
+    {
+      "transactionId": "225018",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "799.000002"
+    },
+    {
+      "transactionId": "225026",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "498.000001"
+    },
+    {
+      "transactionId": "225031",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "2298"
+    },
+    {
+      "transactionId": "225034",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "399"
+    },
+    {
+      "transactionId": "225039",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "449"
+    },
+    {
+      "transactionId": "225047",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "698.999998"
+    },
+    {
+      "transactionId": "225049",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "399"
+    },
+    {
+      "transactionId": "225050",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "399"
+    },
+    {
+      "transactionId": "225052",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "599.000002"
+    },
+    {
+      "transactionId": "225062",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1399.000001"
+    },
+    {
+      "transactionId": "225063",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "298.999999"
+    },
+    {
+      "transactionId": "225065",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "878.999999"
+    },
+    {
+      "transactionId": "225073",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1496.999998"
+    },
+    {
+      "transactionId": "225074",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "219"
+    },
+    {
+      "transactionId": "225075",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "599.000002"
+    },
+    {
+      "transactionId": "225078",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1288.000001"
+    },
+    {
+      "transactionId": "225087",
+      "transactions": "1",
+      "ecommercePurchases": "1",
+      "purchaseRevenue": "1098.999998"
+    }
+  ],
+  "transactions_analysis": {
+    "total_unique_ids": 1534,
+    "sum_transactions": 427.0,
+    "sum_ecommerce_purchases": 1610.0,
+    "sum_revenue": 529914.0000240001,
+    "ratio": 3.7705,
+    "real_duplicates_count": 0,
+    "real_duplicates_sample": [],
+    "not_set_count": 1,
+    "not_set_revenue": 0.0,
+    "malformed_ids_count": 1105,
+    "malformed_ids_sample": [
+      {
+        "transactionId": "210032&key=1abe2783234b4109f15a80bdd3246c14",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "210033&key=1abe2783234b4109f15a80bdd3246c14",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "210034&key=1abe2783234b4109f15a80bdd3246c14",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "210035&key=1abe2783234b4109f15a80bdd3246c14",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "210036&key=1abe2783234b4109f15a80bdd3246c14",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "210037&key=1abe2783234b4109f15a80bdd3246c14",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "224679&key=baf73ee7091c65420b4863b75c7fefee",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "224681&key=0ac087ee8de046d5851f6c8bc4fc4271",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "224682&key=d1f87d55a515904610b6dd8406dd5de4",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      },
+      {
+        "transactionId": "224683&key=1f5adb65505e8e7c952019dc5f89d5eb",
+        "transactions": "0",
+        "ecommercePurchases": "1",
+        "purchaseRevenue": "0"
+      }
+    ],
+    "zero_revenue_count": 1106,
+    "zero_revenue_sample": [
+      "",
+      "210032&key=1abe2783234b4109f15a80bdd3246c14",
+      "210033&key=1abe2783234b4109f15a80bdd3246c14",
+      "210034&key=1abe2783234b4109f15a80bdd3246c14",
+      "210035&key=1abe2783234b4109f15a80bdd3246c14",
+      "210036&key=1abe2783234b4109f15a80bdd3246c14",
+      "210037&key=1abe2783234b4109f15a80bdd3246c14",
+      "224679&key=baf73ee7091c65420b4863b75c7fefee",
+      "224681&key=0ac087ee8de046d5851f6c8bc4fc4271",
+      "224682&key=d1f87d55a515904610b6dd8406dd5de4"
+    ]
+  },
+  "funnel_30d": [
+    {
+      "sessionDefaultChannelGroup": "Cross-network",
+      "sessions": "137557",
+      "addToCarts": "5479",
+      "checkouts": "253",
+      "ecommercePurchases": "262",
+      "transactions": "70",
+      "purchaseRevenue": "74896.000005"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": "80770",
+      "addToCarts": "13883",
+      "checkouts": "576",
+      "ecommercePurchases": "698",
+      "transactions": "206",
+      "purchaseRevenue": "281222.99998300005"
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Social",
+      "sessions": "58776",
+      "addToCarts": "4198",
+      "checkouts": "146",
+      "ecommercePurchases": "195",
+      "transactions": "31",
+      "purchaseRevenue": "64781.999992"
+    },
+    {
+      "sessionDefaultChannelGroup": "Email",
+      "sessions": "17721",
+      "addToCarts": "3338",
+      "checkouts": "139",
+      "ecommercePurchases": "171",
+      "transactions": "37",
+      "purchaseRevenue": "45826.000012000004"
+    },
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": "17459",
+      "addToCarts": "2259",
+      "checkouts": "48",
+      "ecommercePurchases": "123",
+      "transactions": "19",
+      "purchaseRevenue": "21197.000006000002"
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": "10547",
+      "addToCarts": "1506",
+      "checkouts": "54",
+      "ecommercePurchases": "52",
+      "transactions": "30",
+      "purchaseRevenue": "13675.000019000005"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": "4926",
+      "addToCarts": "515",
+      "checkouts": "18",
+      "ecommercePurchases": "22",
+      "transactions": "8",
+      "purchaseRevenue": "6756.000006"
+    },
+    {
+      "sessionDefaultChannelGroup": "Display",
+      "sessions": "4675",
+      "addToCarts": "513",
+      "checkouts": "25",
+      "ecommercePurchases": "20",
+      "transactions": "8",
+      "purchaseRevenue": "8622.999999"
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessions": "4600",
+      "addToCarts": "873",
+      "checkouts": "45",
+      "ecommercePurchases": "46",
+      "transactions": "14",
+      "purchaseRevenue": "11114.000003000001"
+    },
+    {
+      "sessionDefaultChannelGroup": "SMS",
+      "sessions": "1710",
+      "addToCarts": "317",
+      "checkouts": "3",
+      "ecommercePurchases": "5",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": "1094",
+      "addToCarts": "186",
+      "checkouts": "11",
+      "ecommercePurchases": "15",
+      "transactions": "4",
+      "purchaseRevenue": "1822"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Shopping",
+      "sessions": "102",
+      "addToCarts": "1",
+      "checkouts": "0",
+      "ecommercePurchases": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Video",
+      "sessions": "44",
+      "addToCarts": "0",
+      "checkouts": "0",
+      "ecommercePurchases": "0",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    }
+  ],
+  "cities_30d": [
+    {
+      "city": "Warsaw",
+      "country": "Poland",
+      "sessions": "72621",
+      "transactions": "95",
+      "ecommercePurchases": "403",
+      "purchaseRevenue": "126849.00000100001"
+    },
+    {
+      "city": "Wroclaw",
+      "country": "Poland",
+      "sessions": "26722",
+      "transactions": "29",
+      "ecommercePurchases": "137",
+      "purchaseRevenue": "23348.000002"
+    },
+    {
+      "city": "Krakow",
+      "country": "Poland",
+      "sessions": "18913",
+      "transactions": "20",
+      "ecommercePurchases": "70",
+      "purchaseRevenue": "21587.999998999996"
+    },
+    {
+      "city": "Poznan",
+      "country": "Poland",
+      "sessions": "17747",
+      "transactions": "27",
+      "ecommercePurchases": "90",
+      "purchaseRevenue": "33716.999996"
+    },
+    {
+      "city": "Gdansk",
+      "country": "Poland",
+      "sessions": "16193",
+      "transactions": "15",
+      "ecommercePurchases": "57",
+      "purchaseRevenue": "19421.000005"
+    },
+    {
+      "city": "Katowice",
+      "country": "Poland",
+      "sessions": "14337",
+      "transactions": "6",
+      "ecommercePurchases": "45",
+      "purchaseRevenue": "5109.9999990000006"
+    },
+    {
+      "city": "(not set)",
+      "country": "Poland",
+      "sessions": "13241",
+      "transactions": "21",
+      "ecommercePurchases": "72",
+      "purchaseRevenue": "24607"
+    },
+    {
+      "city": "Lodz",
+      "country": "Poland",
+      "sessions": "13000",
+      "transactions": "12",
+      "ecommercePurchases": "56",
+      "purchaseRevenue": "17400.000006"
+    },
+    {
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "sessions": "10663",
+      "transactions": "2",
+      "ecommercePurchases": "38",
+      "purchaseRevenue": "1408.0000009999999"
+    },
+    {
+      "city": "Lublin",
+      "country": "Poland",
+      "sessions": "6631",
+      "transactions": "5",
+      "ecommercePurchases": "30",
+      "purchaseRevenue": "6198.999998"
+    },
+    {
+      "city": "Szczecin",
+      "country": "Poland",
+      "sessions": "5532",
+      "transactions": "6",
+      "ecommercePurchases": "24",
+      "purchaseRevenue": "9130.000005"
+    },
+    {
+      "city": "Rzeszow",
+      "country": "Poland",
+      "sessions": "5462",
+      "transactions": "4",
+      "ecommercePurchases": "18",
+      "purchaseRevenue": "5261.000001"
+    },
+    {
+      "city": "Kielce",
+      "country": "Poland",
+      "sessions": "3611",
+      "transactions": "10",
+      "ecommercePurchases": "30",
+      "purchaseRevenue": "12137.999995"
+    },
+    {
+      "city": "Torun",
+      "country": "Poland",
+      "sessions": "3591",
+      "transactions": "5",
+      "ecommercePurchases": "24",
+      "purchaseRevenue": "6560.0000020000007"
+    },
+    {
+      "city": "Bialystok",
+      "country": "Poland",
+      "sessions": "3586",
+      "transactions": "4",
+      "ecommercePurchases": "11",
+      "purchaseRevenue": "2721"
+    },
+    {
+      "city": "Czestochowa",
+      "country": "Poland",
+      "sessions": "3252",
+      "transactions": "3",
+      "ecommercePurchases": "10",
+      "purchaseRevenue": "7795.999999"
+    },
+    {
+      "city": "Gdynia",
+      "country": "Poland",
+      "sessions": "3091",
+      "transactions": "6",
+      "ecommercePurchases": "19",
+      "purchaseRevenue": "4937"
+    },
+    {
+      "city": "Pruszkow",
+      "country": "Poland",
+      "sessions": "3063",
+      "transactions": "2",
+      "ecommercePurchases": "23",
+      "purchaseRevenue": "2046.9999979999998"
+    },
+    {
+      "city": "Olsztyn",
+      "country": "Poland",
+      "sessions": "2430",
+      "transactions": "10",
+      "ecommercePurchases": "27",
+      "purchaseRevenue": "11347"
+    },
+    {
+      "city": "Gliwice",
+      "country": "Poland",
+      "sessions": "2024",
+      "transactions": "1",
+      "ecommercePurchases": "8",
+      "purchaseRevenue": "24584.999999"
+    },
+    {
+      "city": "Radom",
+      "country": "Poland",
+      "sessions": "1947",
+      "transactions": "0",
+      "ecommercePurchases": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "city": "Sosnowiec",
+      "country": "Poland",
+      "sessions": "1885",
+      "transactions": "3",
+      "ecommercePurchases": "7",
+      "purchaseRevenue": "2417.000002"
+    },
+    {
+      "city": "Bielsko-Biala",
+      "country": "Poland",
+      "sessions": "1602",
+      "transactions": "2",
+      "ecommercePurchases": "4",
+      "purchaseRevenue": "2622.000002"
+    },
+    {
+      "city": "Plock",
+      "country": "Poland",
+      "sessions": "1528",
+      "transactions": "4",
+      "ecommercePurchases": "10",
+      "purchaseRevenue": "4241.0000020000007"
+    },
+    {
+      "city": "Zielona Gora",
+      "country": "Poland",
+      "sessions": "1486",
+      "transactions": "2",
+      "ecommercePurchases": "5",
+      "purchaseRevenue": "1282.999998"
+    },
+    {
+      "city": "Opole",
+      "country": "Poland",
+      "sessions": "1380",
+      "transactions": "10",
+      "ecommercePurchases": "25",
+      "purchaseRevenue": "17372.000004"
+    },
+    {
+      "city": "Gorzow Wielkopolski",
+      "country": "Poland",
+      "sessions": "1120",
+      "transactions": "5",
+      "ecommercePurchases": "11",
+      "purchaseRevenue": "6212.999994"
+    },
+    {
+      "city": "Rybnik",
+      "country": "Poland",
+      "sessions": "1041",
+      "transactions": "1",
+      "ecommercePurchases": "5",
+      "purchaseRevenue": "1398"
+    },
+    {
+      "city": "Dabrowa Gornicza",
+      "country": "Poland",
+      "sessions": "935",
+      "transactions": "2",
+      "ecommercePurchases": "8",
+      "purchaseRevenue": "2098.000001"
+    },
+    {
+      "city": "Koszalin",
+      "country": "Poland",
+      "sessions": "889",
+      "transactions": "2",
+      "ecommercePurchases": "7",
+      "purchaseRevenue": "2293"
+    }
+  ],
+  "devices_30d": [
+    {
+      "deviceCategory": "mobile",
+      "sessions": "259439",
+      "transactions": "246",
+      "ecommercePurchases": "953",
+      "purchaseRevenue": "320216.000014",
+      "engagementRate": "0.42220714695940087",
+      "averageSessionDuration": "768.31390398988958",
+      "cr_transactions": 0.0948,
+      "aov": 1301.69
+    },
+    {
+      "deviceCategory": "desktop",
+      "sessions": "65243",
+      "transactions": "180",
+      "ecommercePurchases": "650",
+      "purchaseRevenue": "209199.00000999996",
+      "engagementRate": "0.70392225985929524",
+      "averageSessionDuration": "1448.7812753933142",
+      "cr_transactions": 0.2759,
+      "aov": 1162.22
+    },
+    {
+      "deviceCategory": "tablet",
+      "sessions": "4784",
+      "transactions": "1",
+      "ecommercePurchases": "7",
+      "purchaseRevenue": "499.000001",
+      "engagementRate": "0.49790969899665549",
+      "averageSessionDuration": "665.54490840217386",
+      "cr_transactions": 0.0209,
+      "aov": 499.0
+    },
+    {
+      "deviceCategory": "smart tv",
+      "sessions": "1",
+      "transactions": "0",
+      "ecommercePurchases": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0",
+      "averageSessionDuration": "0",
+      "cr_transactions": 0.0,
+      "aov": 0
+    }
+  ],
+  "landing_pages_30d": [
+    {
+      "landingPage": "/",
+      "sessions": "86825",
+      "transactions": "161",
+      "purchaseRevenue": "207974.00001400002",
+      "engagementRate": "0.55303196084077166"
+    },
+    {
+      "landingPage": "/kolekcja/effortless-mood",
+      "sessions": "19660",
+      "transactions": "4",
+      "purchaseRevenue": "28898.999997",
+      "engagementRate": "0.31881993896236011"
+    },
+    {
+      "landingPage": "/c/390-nowosci",
+      "sessions": "19195",
+      "transactions": "13",
+      "purchaseRevenue": "22512.999999",
+      "engagementRate": "0.74284970044282361"
+    },
+    {
+      "landingPage": "/c/414-spodnie",
+      "sessions": "17799",
+      "transactions": "2",
+      "purchaseRevenue": "4315.999999",
+      "engagementRate": "0.36277318950502835"
+    },
+    {
+      "landingPage": "/c/705-promocja",
+      "sessions": "16305",
+      "transactions": "5",
+      "purchaseRevenue": "7000.0000050000008",
+      "engagementRate": "0.42735357252376571"
+    },
+    {
+      "landingPage": "/c/412-bluzki",
+      "sessions": "15163",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.39068785860317878"
+    },
+    {
+      "landingPage": "/p/26307-sukienka-z-jedwabiu.html",
+      "sessions": "13252",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.19370661032297012"
+    },
+    {
+      "landingPage": "/c/1241-wiosna-lato-2026",
+      "sessions": "12379",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.7078923984166734"
+    },
+    {
+      "landingPage": "",
+      "sessions": "9920",
+      "transactions": "6",
+      "purchaseRevenue": "7379.9999979999993",
+      "engagementRate": "0"
+    },
+    {
+      "landingPage": "/c/434-outlet",
+      "sessions": "7069",
+      "transactions": "8",
+      "purchaseRevenue": "11105.999996999999",
+      "engagementRate": "0.75060121657943135"
+    },
+    {
+      "landingPage": "/c/702-odziez",
+      "sessions": "5659",
+      "transactions": "2",
+      "purchaseRevenue": "1657",
+      "engagementRate": "0.555575189962891"
+    },
+    {
+      "landingPage": "/c/409-sukienki",
+      "sessions": "5005",
+      "transactions": "2",
+      "purchaseRevenue": "2930.999997",
+      "engagementRate": "0.77982017982017982"
+    },
+    {
+      "landingPage": "/p/23308-bezowe-sneakersy-z-plecionej-skory.html",
+      "sessions": "3973",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.35086836143971811"
+    },
+    {
+      "landingPage": "/p/23231-biala-sukienka-midi.html",
+      "sessions": "3522",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.35604770017035775"
+    },
+    {
+      "landingPage": "/koszyk",
+      "sessions": "3486",
+      "transactions": "8",
+      "purchaseRevenue": "15912.999996999999",
+      "engagementRate": "0.62994836488812389"
+    },
+    {
+      "landingPage": "/p/23234-czarne-skorzane-buty-z-plecionej-skory.html",
+      "sessions": "3466",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.54212348528563181"
+    },
+    {
+      "landingPage": "/p/26078-brazowe-buty-slingback-z-zamszowej-skory.html",
+      "sessions": "3242",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.53886489821098082"
+    },
+    {
+      "landingPage": "/c/1069-plaszcze-i-kurtki",
+      "sessions": "3119",
+      "transactions": "1",
+      "purchaseRevenue": "1099",
+      "engagementRate": "0.71625521000320613"
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": "2967",
+      "transactions": "13",
+      "purchaseRevenue": "-16182.99999",
+      "engagementRate": "0.0239298955173576"
+    },
+    {
+      "landingPage": "/p/26351-brazowa-torebka-ze-skory-zamszowej.html",
+      "sessions": "2833",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.44122837980938934"
+    },
+    {
+      "landingPage": "/c/522-plaszcze",
+      "sessions": "2816",
+      "transactions": "2",
+      "purchaseRevenue": "5661.999999",
+      "engagementRate": "0.74147727272727271"
+    },
+    {
+      "landingPage": "/p/26347-biala-sukienka-z-dzianiny.html",
+      "sessions": "2380",
+      "transactions": "1",
+      "purchaseRevenue": "799.000001",
+      "engagementRate": "0.41848739495798321"
+    },
+    {
+      "landingPage": "/p/26350-zielona-torebka-ze-skory-zamszowej.html",
+      "sessions": "2364",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.42935702199661591"
+    },
+    {
+      "landingPage": "/p/26415-czarne-dzianinowe-spodnie-cullote.html",
+      "sessions": "2360",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.37118644067796608"
+    },
+    {
+      "landingPage": "/p/23427-luzna-sukienka-w-desen.html",
+      "sessions": "2286",
+      "transactions": "1",
+      "purchaseRevenue": "1099.000001",
+      "engagementRate": "0.39238845144356954"
+    },
+    {
+      "landingPage": "/p/26365-bezowe-skorzane-baleriny.html",
+      "sessions": "2266",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.49646954986760811"
+    },
+    {
+      "landingPage": "/c/411-zakiety",
+      "sessions": "2225",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.76988764044943825"
+    },
+    {
+      "landingPage": "/p/26357-zielone-sneakersy-ze-skory-zamszowej.html",
+      "sessions": "2082",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.48463016330451492"
+    },
+    {
+      "landingPage": "/p/26392-granatowy-zakiet-w-tenis.html",
+      "sessions": "2045",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "engagementRate": "0.44694376528117358"
+    },
+    {
+      "landingPage": "/p/26345-biale-jeansy-barrel.html",
+      "sessions": "1979",
+      "transactions": "1",
+      "purchaseRevenue": "799",
+      "engagementRate": "0.45982819605861547"
+    }
+  ],
+  "products_30d": [
+    {
+      "itemId": "26271",
+      "itemName": "Camelowy płaszcz teddy bear z wełną wielbłądzią i jedwabiem (Kolor: Camelowy - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "0",
+      "itemsPurchased": "8",
+      "itemRevenue": "27991.999992999998",
+      "itemsAddedToCart": "19"
+    },
+    {
+      "itemId": "26271",
+      "itemName": "Camelowy płaszcz teddy bear z wełną wielbłądzią i jedwabiem (Kolor: Camelowy - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "6",
+      "itemsPurchased": "7",
+      "itemRevenue": "24492.999995",
+      "itemsAddedToCart": "23"
+    },
+    {
+      "itemId": "26420",
+      "itemName": "Brązowa kurtka ze skóry zamszowej (Kolor: Brązowy - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "5",
+      "itemsPurchased": "6",
+      "itemRevenue": "23994.000006",
+      "itemsAddedToCart": "23"
+    },
+    {
+      "itemId": "26325",
+      "itemName": "Czarna kurtka bomberka z jedwabiem (Kolor: Czarny - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "5",
+      "itemsPurchased": "9",
+      "itemRevenue": "20691.000004",
+      "itemsAddedToCart": "34"
+    },
+    {
+      "itemId": "22390",
+      "itemName": "Długi bawełniany trencz beżowy z paskiem (Rozmiar: 36 - Kolor: Beż)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "9",
+      "itemsPurchased": "11",
+      "itemRevenue": "18469.000001",
+      "itemsAddedToCart": "51"
+    },
+    {
+      "itemId": "26204",
+      "itemName": "Beżowa dwurzędowa kurtka z wełny (Kolor: Beż - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "10",
+      "itemsPurchased": "14",
+      "itemRevenue": "17486",
+      "itemsAddedToCart": "91"
+    },
+    {
+      "itemId": "26427",
+      "itemName": "Niebieskie zwężane jeansy z wysokim stanem (Rozmiar: 36 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "13",
+      "itemsPurchased": "18",
+      "itemRevenue": "14381.999996000002",
+      "itemsAddedToCart": "165"
+    },
+    {
+      "itemId": "23206",
+      "itemName": "Camelowy bawełniany płaszcz z paskiem (Kolor: Camelowy - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "6",
+      "itemsPurchased": "11",
+      "itemRevenue": "14288.999996999999",
+      "itemsAddedToCart": "108"
+    },
+    {
+      "itemId": "26020",
+      "itemName": "Płaszcz camel z wełny wielbłądziej doubleface (Kolor: Camelowy - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1",
+      "itemsPurchased": "2",
+      "itemRevenue": "13997.999999",
+      "itemsAddedToCart": "9"
+    },
+    {
+      "itemId": "26526",
+      "itemName": "Czekoladowa skórzana torebka z chwostami (Rozmiar: UNISIZE - Kolor: Brązowy)",
+      "itemCategory": "Buty i torby",
+      "itemsViewed": "1",
+      "itemsPurchased": "6",
+      "itemRevenue": "13794.000003",
+      "itemsAddedToCart": "119"
+    },
+    {
+      "itemId": "26427",
+      "itemName": "Niebieskie zwężane jeansy z wysokim stanem (Rozmiar: 38 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "11",
+      "itemsPurchased": "16",
+      "itemRevenue": "12783.999995999999",
+      "itemsAddedToCart": "63"
+    },
+    {
+      "itemId": "26411",
+      "itemName": "Brązowa skórzana kurtka z paskiem (Kolor: Brązowy - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "4",
+      "itemsPurchased": "3",
+      "itemRevenue": "11997.000005",
+      "itemsAddedToCart": "23"
+    },
+    {
+      "itemId": "10659-87",
+      "itemName": "Sweter z kaszmiru (Kolor: Zielony - Rozmiar: 44/46)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1",
+      "itemsPurchased": "5",
+      "itemRevenue": "11495.000005",
+      "itemsAddedToCart": "6"
+    },
+    {
+      "itemId": "26207",
+      "itemName": "Płaszcz w militarnej zieleni z baby suri alpaką (Rozmiar: 36 - Kolor: Zielony)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1",
+      "itemsPurchased": "3",
+      "itemRevenue": "11337.000002",
+      "itemsAddedToCart": "21"
+    },
+    {
+      "itemId": "26102",
+      "itemName": "Beżowy płaszcz maxi baby suri alpaka z kapturem (Kolor: Beż - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "2",
+      "itemsPurchased": "2",
+      "itemRevenue": "10798.000001",
+      "itemsAddedToCart": "13"
+    },
+    {
+      "itemId": "26343",
+      "itemName": "Jeansy o fasonie flare z wysokim stanem (Rozmiar: 40 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "5",
+      "itemsPurchased": "12",
+      "itemRevenue": "10788.000000999999",
+      "itemsAddedToCart": "37"
+    },
+    {
+      "itemId": "26306",
+      "itemName": "Brązowa kurtka puchowa z wiązaniem (Kolor: Brązowy - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "0",
+      "itemsPurchased": "6",
+      "itemRevenue": "10193.999998",
+      "itemsAddedToCart": "8"
+    },
+    {
+      "itemId": "26350",
+      "itemName": "Zielona torebka ze skóry zamszowej (Rozmiar: UNISIZE - Kolor: Zielony)",
+      "itemCategory": "Buty i torby",
+      "itemsViewed": "8",
+      "itemsPurchased": "4",
+      "itemRevenue": "9996.000002",
+      "itemsAddedToCart": "61"
+    },
+    {
+      "itemId": "26272",
+      "itemName": "Brązowy wełniany płaszcz z paskiem (Kolor: Brązowy - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "3",
+      "itemsPurchased": "5",
+      "itemRevenue": "9995.000002",
+      "itemsAddedToCart": "12"
+    },
+    {
+      "itemId": "26400",
+      "itemName": "Koszula w brązowe paski z lnem i lyocellem (Kolor: Brązowy - Rozmiar: 36/38)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "5",
+      "itemsPurchased": "9",
+      "itemRevenue": "9891.000003000001",
+      "itemsAddedToCart": "70"
+    },
+    {
+      "itemId": "26055",
+      "itemName": "Granatowy żakiet w paski z dodatkiem kaszmiru (Rozmiar: 36 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "6",
+      "itemsPurchased": "7",
+      "itemRevenue": "9793.000009",
+      "itemsAddedToCart": "31"
+    },
+    {
+      "itemId": "26313",
+      "itemName": "Szerokie szare spodnie z jedwabiu (Rozmiar: 36 - Kolor: Szary)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1",
+      "itemsPurchased": "6",
+      "itemRevenue": "9593.999998",
+      "itemsAddedToCart": "24"
+    },
+    {
+      "itemId": "26345",
+      "itemName": "Białe jeansy barrel z wysokim stanem (Rozmiar: 42 - Kolor: Biały)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "8",
+      "itemsPurchased": "12",
+      "itemRevenue": "9587.999997",
+      "itemsAddedToCart": "37"
+    },
+    {
+      "itemId": "26325",
+      "itemName": "Czarna kurtka bomberka z jedwabiem (Kolor: Czarny - Rozmiar: 44/46)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1",
+      "itemsPurchased": "4",
+      "itemRevenue": "9195.999996",
+      "itemsAddedToCart": "12"
+    },
+    {
+      "itemId": "23167",
+      "itemName": "Camelowy płaszcz z wełny wielbłądziej (Rozmiar: 34 - Kolor: Camelowy)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "7",
+      "itemsPurchased": "2",
+      "itemRevenue": "9098",
+      "itemsAddedToCart": "7"
+    },
+    {
+      "itemId": "23165",
+      "itemName": "Wełniany dwurzędowy płaszcz camelowy z paskiem (Rozmiar: M (40/42 ) - Kolor: Camelowy)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "5",
+      "itemsPurchased": "2",
+      "itemRevenue": "9097.999997",
+      "itemsAddedToCart": "8"
+    },
+    {
+      "itemId": "26397",
+      "itemName": "Szerokie beżowe spodnie w kratę do garnituru (Rozmiar: 38 - Kolor: Beż)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "0",
+      "itemsPurchased": "7",
+      "itemRevenue": "9093.000003",
+      "itemsAddedToCart": "11"
+    },
+    {
+      "itemId": "26395",
+      "itemName": "Granatowe spodnie w tenis do garnituru (Rozmiar: 38 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "2",
+      "itemsPurchased": "7",
+      "itemRevenue": "9092.999995",
+      "itemsAddedToCart": "49"
+    },
+    {
+      "itemId": "26075",
+      "itemName": "Brązowe spodnie z jedwabiu z szeroką nogawką (Rozmiar: 42 - Kolor: Brązowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1",
+      "itemsPurchased": "6",
+      "itemRevenue": "8994.000002",
+      "itemsAddedToCart": "19"
+    },
+    {
+      "itemId": "26392",
+      "itemName": "Granatowy pudełkowy żakiet w tenis (Rozmiar: 40 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1",
+      "itemsPurchased": "4",
+      "itemRevenue": "8796.000002",
+      "itemsAddedToCart": "17"
+    },
+    {
+      "itemId": "26345",
+      "itemName": "Białe jeansy barrel z wysokim stanem (Rozmiar: 44 - Kolor: Biały)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "17",
+      "itemsPurchased": "11",
+      "itemRevenue": "8789",
+      "itemsAddedToCart": "50"
+    },
+    {
+      "itemId": "26399",
+      "itemName": "Brązowy płaszcz z mieszanki lyocellu i lnu (Kolor: Brązowy - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "4",
+      "itemsPurchased": "3",
+      "itemRevenue": "8397.000002",
+      "itemsAddedToCart": "33"
+    },
+    {
+      "itemId": "26352",
+      "itemName": "Czerwona torebka ze skóry zamszowej (Rozmiar: UNISIZE - Kolor: Czerwony)",
+      "itemCategory": "Buty i torby",
+      "itemsViewed": "0",
+      "itemsPurchased": "6",
+      "itemRevenue": "8394.000003000001",
+      "itemsAddedToCart": "46"
+    },
+    {
+      "itemId": "26055",
+      "itemName": "Granatowy żakiet w paski z dodatkiem kaszmiru (Rozmiar: 38 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "2",
+      "itemsPurchased": "6",
+      "itemRevenue": "8394.000003",
+      "itemsAddedToCart": "25"
+    },
+    {
+      "itemId": "26101",
+      "itemName": "Różowy dwurzędowy prosty płaszcz baby suri alpaka (Kolor: Różowy - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "0",
+      "itemsPurchased": "3",
+      "itemRevenue": "8097",
+      "itemsAddedToCart": "18"
+    },
+    {
+      "itemId": "26343",
+      "itemName": "Jeansy o fasonie flare z wysokim stanem (Rozmiar: 38 - Kolor: Granatowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "5",
+      "itemsPurchased": "9",
+      "itemRevenue": "8090.999999",
+      "itemsAddedToCart": "48"
+    },
+    {
+      "itemId": "26333",
+      "itemName": "Śmietankowa apaszka z jedwabiu w czerwono czarny wzór (Rozmiar: UNISIZE - Kolor: Deseń)",
+      "itemCategory": "Akcesoria",
+      "itemsViewed": "2",
+      "itemsPurchased": "13",
+      "itemRevenue": "7786.999997",
+      "itemsAddedToCart": "95"
+    },
+    {
+      "itemId": "26441",
+      "itemName": "Brązowa luźna koszula z ramii (Rozmiar: UNISIZE - Kolor: Brązowy)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "4",
+      "itemsPurchased": "7",
+      "itemRevenue": "7693",
+      "itemsAddedToCart": "445"
+    },
+    {
+      "itemId": "26354",
+      "itemName": "Krótka brązowa kurtka skórzana (Kolor: Brązowy - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "2",
+      "itemsPurchased": "2",
+      "itemRevenue": "7598",
+      "itemsAddedToCart": "10"
+    },
+    {
+      "itemId": "26421",
+      "itemName": "Beżowa kurtka ze skóry zamszowej (Rozmiar: 44 - Kolor: Beż)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "0",
+      "itemsPurchased": "2",
+      "itemRevenue": "7597.999999",
+      "itemsAddedToCart": "2"
+    },
+    {
+      "itemId": "26354",
+      "itemName": "Krótka brązowa kurtka skórzana (Kolor: Brązowy - Rozmiar: 36/38)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "0",
+      "itemsPurchased": "2",
+      "itemRevenue": "7597.999997",
+      "itemsAddedToCart": "3"
+    },
+    {
+      "itemId": "26443",
+      "itemName": "Zielony żakiet do garnituru z lyocellu i lnu (Rozmiar: 34 - Kolor: Zielony)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "2",
+      "itemsPurchased": "4",
+      "itemRevenue": "7596.000003",
+      "itemsAddedToCart": "33"
+    },
+    {
+      "itemId": "26443",
+      "itemName": "Zielony żakiet do garnituru z lyocellu i lnu (Rozmiar: 38 - Kolor: Zielony)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "7",
+      "itemsPurchased": "4",
+      "itemRevenue": "7596.000002",
+      "itemsAddedToCart": "40"
+    },
+    {
+      "itemId": "26443",
+      "itemName": "Zielony żakiet do garnituru z lyocellu i lnu (Rozmiar: 42 - Kolor: Zielony)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "4",
+      "itemsPurchased": "4",
+      "itemRevenue": "7596.000001",
+      "itemsAddedToCart": "27"
+    },
+    {
+      "itemId": "23207",
+      "itemName": "Biały trencz z jedwabiem (Kolor: Biały - Rozmiar: 44/46)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "3",
+      "itemsPurchased": "5",
+      "itemRevenue": "7495.000001",
+      "itemsAddedToCart": "23"
+    },
+    {
+      "itemId": "26204",
+      "itemName": "Beżowa dwurzędowa kurtka z wełny (Kolor: Beż - Rozmiar: 32/34)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "11",
+      "itemsPurchased": "6",
+      "itemRevenue": "7493.9999960000005",
+      "itemsAddedToCart": "95"
+    },
+    {
+      "itemId": "26094",
+      "itemName": "Ciemnozielony płaszcz z jedwabiem doubleface (Kolor: Zielony - Rozmiar: 40/42)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "5",
+      "itemsPurchased": "2",
+      "itemRevenue": "7197.999999",
+      "itemsAddedToCart": "35"
+    },
+    {
+      "itemId": "22530",
+      "itemName": "Beżowy płaszcz trencz z paskiem Marie (Rozmiar: L (44/46 ) - Kolor: Camelowy)",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "5",
+      "itemsPurchased": "3",
+      "itemRevenue": "7197",
+      "itemsAddedToCart": "13"
+    },
+    {
+      "itemId": "26307",
+      "itemName": "Zielona sukienka midi z jedwabiu (Kolor: Zielony - Rozmiar: 36/38)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "0",
+      "itemsPurchased": "3",
+      "itemRevenue": "7196.999999",
+      "itemsAddedToCart": "25"
+    },
+    {
+      "itemId": "26394",
+      "itemName": "Czarne spodnie z mieszanki lnu i lyocellu (Rozmiar: 36 - Kolor: Czarny)",
+      "itemCategory": "Odzież",
+      "itemsViewed": "3",
+      "itemsPurchased": "6",
+      "itemRevenue": "7193.999998",
+      "itemsAddedToCart": "53"
+    }
+  ],
+  "products_analysis": {
+    "total_products": 100,
+    "with_revenue": 100,
+    "with_purchases": 100,
+    "top_by_revenue": [
+      {
+        "itemId": "26271",
+        "itemName": "Camelowy płaszcz teddy bear z wełną wielbłądzią i jedwabiem (Kolor: Camelowy - Rozmiar: 40/42)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "0",
+        "itemsPurchased": "8",
+        "itemRevenue": "27991.999992999998",
+        "itemsAddedToCart": "19"
+      },
+      {
+        "itemId": "26271",
+        "itemName": "Camelowy płaszcz teddy bear z wełną wielbłądzią i jedwabiem (Kolor: Camelowy - Rozmiar: 36/38)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "6",
+        "itemsPurchased": "7",
+        "itemRevenue": "24492.999995",
+        "itemsAddedToCart": "23"
+      },
+      {
+        "itemId": "26420",
+        "itemName": "Brązowa kurtka ze skóry zamszowej (Kolor: Brązowy - Rozmiar: 40/42)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "5",
+        "itemsPurchased": "6",
+        "itemRevenue": "23994.000006",
+        "itemsAddedToCart": "23"
+      },
+      {
+        "itemId": "26325",
+        "itemName": "Czarna kurtka bomberka z jedwabiem (Kolor: Czarny - Rozmiar: 36/38)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "5",
+        "itemsPurchased": "9",
+        "itemRevenue": "20691.000004",
+        "itemsAddedToCart": "34"
+      },
+      {
+        "itemId": "22390",
+        "itemName": "Długi bawełniany trencz beżowy z paskiem (Rozmiar: 36 - Kolor: Beż)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "9",
+        "itemsPurchased": "11",
+        "itemRevenue": "18469.000001",
+        "itemsAddedToCart": "51"
+      },
+      {
+        "itemId": "26204",
+        "itemName": "Beżowa dwurzędowa kurtka z wełny (Kolor: Beż - Rozmiar: 40/42)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "10",
+        "itemsPurchased": "14",
+        "itemRevenue": "17486",
+        "itemsAddedToCart": "91"
+      },
+      {
+        "itemId": "26427",
+        "itemName": "Niebieskie zwężane jeansy z wysokim stanem (Rozmiar: 36 - Kolor: Granatowy)",
+        "itemCategory": "Odzież",
+        "itemsViewed": "13",
+        "itemsPurchased": "18",
+        "itemRevenue": "14381.999996000002",
+        "itemsAddedToCart": "165"
+      },
+      {
+        "itemId": "23206",
+        "itemName": "Camelowy bawełniany płaszcz z paskiem (Kolor: Camelowy - Rozmiar: 40/42)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "6",
+        "itemsPurchased": "11",
+        "itemRevenue": "14288.999996999999",
+        "itemsAddedToCart": "108"
+      },
+      {
+        "itemId": "26020",
+        "itemName": "Płaszcz camel z wełny wielbłądziej doubleface (Kolor: Camelowy - Rozmiar: 36/38)",
+        "itemCategory": "Płaszcze i kurtki",
+        "itemsViewed": "1",
+        "itemsPurchased": "2",
+        "itemRevenue": "13997.999999",
+        "itemsAddedToCart": "9"
+      },
+      {
+        "itemId": "26526",
+        "itemName": "Czekoladowa skórzana torebka z chwostami (Rozmiar: UNISIZE - Kolor: Brązowy)",
+        "itemCategory": "Buty i torby",
+        "itemsViewed": "1",
+        "itemsPurchased": "6",
+        "itemRevenue": "13794.000003",
+        "itemsAddedToCart": "119"
+      }
+    ],
+    "all_zero_revenue": false
+  },
+  "hostnames_30d": [
+    {
+      "hostname": "patrizia.aryton.pl",
+      "sessions": "330296",
+      "transactions": "413"
+    },
+    {
+      "hostname": "dev18.arytondev.pl",
+      "sessions": "26",
+      "transactions": "1"
+    },
+    {
+      "hostname": "dev18.arytondev.local",
+      "sessions": "14",
+      "transactions": "0"
+    },
+    {
+      "hostname": "aryton81.local",
+      "sessions": "7",
+      "transactions": "0"
+    },
+    {
+      "hostname": "aryton.b-cdn.net",
+      "sessions": "2",
+      "transactions": "0"
+    },
+    {
+      "hostname": "patrizia-aryton-pl.translate.goog",
+      "sessions": "1",
+      "transactions": "0"
+    },
+    {
+      "hostname": "(not set)",
+      "sessions": "0",
+      "transactions": "13"
+    }
+  ],
+  "daily_30d": [
+    {
+      "date": "20260309",
+      "sessions": "6613",
+      "transactions": "13",
+      "purchaseRevenue": "7800.000002",
+      "newUsers": "2182"
+    },
+    {
+      "date": "20260310",
+      "sessions": "7112",
+      "transactions": "17",
+      "purchaseRevenue": "29094.999993999998",
+      "newUsers": "2192"
+    },
+    {
+      "date": "20260311",
+      "sessions": "8063",
+      "transactions": "25",
+      "purchaseRevenue": "35822.000001",
+      "newUsers": "2707"
+    },
+    {
+      "date": "20260312",
+      "sessions": "7637",
+      "transactions": "12",
+      "purchaseRevenue": "18373.000001",
+      "newUsers": "2541"
+    },
+    {
+      "date": "20260313",
+      "sessions": "7733",
+      "transactions": "15",
+      "purchaseRevenue": "15271.000009",
+      "newUsers": "2692"
+    },
+    {
+      "date": "20260314",
+      "sessions": "10048",
+      "transactions": "8",
+      "purchaseRevenue": "5940",
+      "newUsers": "3799"
+    },
+    {
+      "date": "20260315",
+      "sessions": "9644",
+      "transactions": "13",
+      "purchaseRevenue": "14202.999999",
+      "newUsers": "3785"
+    },
+    {
+      "date": "20260316",
+      "sessions": "8369",
+      "transactions": "12",
+      "purchaseRevenue": "8782.9999980000011",
+      "newUsers": "3039"
+    },
+    {
+      "date": "20260317",
+      "sessions": "10749",
+      "transactions": "9",
+      "purchaseRevenue": "5466.000008",
+      "newUsers": "4319"
+    },
+    {
+      "date": "20260318",
+      "sessions": "9295",
+      "transactions": "12",
+      "purchaseRevenue": "11716.999995999999",
+      "newUsers": "3649"
+    },
+    {
+      "date": "20260319",
+      "sessions": "9694",
+      "transactions": "12",
+      "purchaseRevenue": "18259.999998",
+      "newUsers": "3685"
+    },
+    {
+      "date": "20260320",
+      "sessions": "11933",
+      "transactions": "24",
+      "purchaseRevenue": "24964.999998",
+      "newUsers": "4484"
+    },
+    {
+      "date": "20260321",
+      "sessions": "11295",
+      "transactions": "27",
+      "purchaseRevenue": "21569",
+      "newUsers": "4411"
+    },
+    {
+      "date": "20260322",
+      "sessions": "13817",
+      "transactions": "23",
+      "purchaseRevenue": "30598",
+      "newUsers": "5596"
+    },
+    {
+      "date": "20260323",
+      "sessions": "12675",
+      "transactions": "12",
+      "purchaseRevenue": "14663.999994",
+      "newUsers": "4863"
+    },
+    {
+      "date": "20260324",
+      "sessions": "13665",
+      "transactions": "2",
+      "purchaseRevenue": "3085.000001",
+      "newUsers": "5431"
+    },
+    {
+      "date": "20260325",
+      "sessions": "14385",
+      "transactions": "8",
+      "purchaseRevenue": "8748.999997",
+      "newUsers": "5699"
+    },
+    {
+      "date": "20260326",
+      "sessions": "12304",
+      "transactions": "19",
+      "purchaseRevenue": "19336.999992",
+      "newUsers": "4624"
+    },
+    {
+      "date": "20260327",
+      "sessions": "11849",
+      "transactions": "16",
+      "purchaseRevenue": "22919.999998",
+      "newUsers": "4321"
+    },
+    {
+      "date": "20260328",
+      "sessions": "10206",
+      "transactions": "16",
+      "purchaseRevenue": "20587.000008",
+      "newUsers": "3741"
+    },
+    {
+      "date": "20260329",
+      "sessions": "11830",
+      "transactions": "15",
+      "purchaseRevenue": "20809.000006000002",
+      "newUsers": "4624"
+    },
+    {
+      "date": "20260330",
+      "sessions": "10927",
+      "transactions": "14",
+      "purchaseRevenue": "18372.999995000002",
+      "newUsers": "4069"
+    },
+    {
+      "date": "20260331",
+      "sessions": "11425",
+      "transactions": "29",
+      "purchaseRevenue": "44627.000006",
+      "newUsers": "4359"
+    },
+    {
+      "date": "20260401",
+      "sessions": "10956",
+      "transactions": "22",
+      "purchaseRevenue": "37239.000006",
+      "newUsers": "4123"
+    },
+    {
+      "date": "20260402",
+      "sessions": "8551",
+      "transactions": "7",
+      "purchaseRevenue": "5782.000001",
+      "newUsers": "3231"
+    },
+    {
+      "date": "20260403",
+      "sessions": "10178",
+      "transactions": "5",
+      "purchaseRevenue": "4415.0000020000007",
+      "newUsers": "4413"
+    },
+    {
+      "date": "20260404",
+      "sessions": "9564",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "newUsers": "4173"
+    },
+    {
+      "date": "20260405",
+      "sessions": "9476",
+      "transactions": "3",
+      "purchaseRevenue": "2756.000003",
+      "newUsers": "4196"
+    },
+    {
+      "date": "20260406",
+      "sessions": "13301",
+      "transactions": "7",
+      "purchaseRevenue": "5946.9999999999991",
+      "newUsers": "6019"
+    },
+    {
+      "date": "20260407",
+      "sessions": "12663",
+      "transactions": "16",
+      "purchaseRevenue": "37895.000006",
+      "newUsers": "5217"
+    },
+    {
+      "date": "20260408",
+      "sessions": "13610",
+      "transactions": "14",
+      "purchaseRevenue": "14867.000001",
+      "newUsers": "3990"
+    }
+  ],
+  "referrals_30d": [
+    {
+      "sessionSource": "m.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "1736",
+      "transactions": "4",
+      "purchaseRevenue": "3820.9999989999997"
+    },
+    {
+      "sessionSource": "l.instagram.com",
+      "sessionMedium": "referral",
+      "sessions": "1703",
+      "transactions": "1",
+      "purchaseRevenue": "1198.000002"
+    },
+    {
+      "sessionSource": "l.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "706",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "pl.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "626",
+      "transactions": "2",
+      "purchaseRevenue": "2633.0000010000003"
+    },
+    {
+      "sessionSource": "facebook",
+      "sessionMedium": "referral",
+      "sessions": "366",
+      "transactions": "3",
+      "purchaseRevenue": "1737.0000049999999"
+    },
+    {
+      "sessionSource": "lm.facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "365",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "poczta.onet.pl",
+      "sessionMedium": "referral",
+      "sessions": "191",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "search.brave.com",
+      "sessionMedium": "referral",
+      "sessions": "109",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "ntp.msn.com",
+      "sessionMedium": "referral",
+      "sessions": "103",
+      "transactions": "3",
+      "purchaseRevenue": "3120.9999970000003"
+    },
+    {
+      "sessionSource": "poczta.interia.pl",
+      "sessionMedium": "referral",
+      "sessions": "88",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "facebook.com",
+      "sessionMedium": "referral",
+      "sessions": "86",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "poczta.o2.pl",
+      "sessionMedium": "referral",
+      "sessions": "83",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "zasobygwp.pl",
+      "sessionMedium": "referral",
+      "sessions": "75",
+      "transactions": "1",
+      "purchaseRevenue": "305"
+    },
+    {
+      "sessionSource": "statics.teams.cdn.office.net",
+      "sessionMedium": "referral",
+      "sessions": "72",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "klarna",
+      "sessionMedium": "referral",
+      "sessions": "55",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "poczta.wp.pl",
+      "sessionMedium": "referral",
+      "sessions": "46",
+      "transactions": "1",
+      "purchaseRevenue": "719"
+    },
+    {
+      "sessionSource": "youtube.com",
+      "sessionMedium": "referral",
+      "sessions": "44",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "rabatio.com",
+      "sessionMedium": "referral",
+      "sessions": "38",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "mail.google.com",
+      "sessionMedium": "referral",
+      "sessions": "37",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "nl.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "35",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "mariagajek.pl",
+      "sessionMedium": "referral",
+      "sessions": "34",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "kastyle.pl",
+      "sessionMedium": "referral",
+      "sessions": "32",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "arytonpl.sharepoint.com",
+      "sessionMedium": "referral",
+      "sessions": "28",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "szukaj.interia.pl",
+      "sessionMedium": "referral",
+      "sessions": "25",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "instagram",
+      "sessionMedium": "referral",
+      "sessions": "22",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "emea.search.yahoo.com",
+      "sessionMedium": "referral",
+      "sessions": "21",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "kadaza.pl",
+      "sessionMedium": "referral",
+      "sessions": "19",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "westfield.com",
+      "sessionMedium": "referral",
+      "sessions": "18",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "e.mail.ru",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "gemini.google.com",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "krknews.pl",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "zielonearkady.com.pl",
+      "sessionMedium": "referral",
+      "sessions": "14",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "styl.fm",
+      "sessionMedium": "referral",
+      "sessions": "11",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "dev18.arytondev.local",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "email.inbox.lv",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "privacywall.org",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "salesmanago.lightning.force.com",
+      "sessionMedium": "referral",
+      "sessions": "10",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "pl.pinterest.com",
+      "sessionMedium": "referral",
+      "sessions": "9",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "825cfeb46b5e71bf82a61c1f8ffafe7c.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "8",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "app.snov.io",
+      "sessionMedium": "referral",
+      "sessions": "8",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "galeria-kaskada.pl",
+      "sessionMedium": "referral",
+      "sessions": "8",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "1e2b4c34a385aa2ec922d31a31b5c732.safeframe.googlesyndication.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "dominikanska.gcity.pl",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "dropbox.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "instagram.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "manufaktura.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "swisscows.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "canva.com",
+      "sessionMedium": "referral",
+      "sessions": "6",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "dziswlodzi.pl",
+      "sessionMedium": "referral",
+      "sessions": "6",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "sessionSource": "metric.picodi.com",
+      "sessionMedium": "referral",
+      "sessions": "6",
+      "transactions": "0",
+      "purchaseRevenue": "0"
+    }
+  ],
+  "channels_30d": [
+    {
+      "sessionDefaultChannelGroup": "Cross-network",
+      "sessions": "137557",
+      "transactions": "70",
+      "purchaseRevenue": "74896.000005000009",
+      "newUsers": "63805",
+      "totalUsers": "98442",
+      "cr_pct": 0.0509,
+      "rev_per_session": 0.54
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": "80770",
+      "transactions": "206",
+      "purchaseRevenue": "281222.99998300005",
+      "newUsers": "28153",
+      "totalUsers": "41222",
+      "cr_pct": 0.255,
+      "rev_per_session": 3.48
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Social",
+      "sessions": "58776",
+      "transactions": "31",
+      "purchaseRevenue": "64781.999992",
+      "newUsers": "17096",
+      "totalUsers": "26744",
+      "cr_pct": 0.0527,
+      "rev_per_session": 1.1
+    },
+    {
+      "sessionDefaultChannelGroup": "Email",
+      "sessions": "17721",
+      "transactions": "37",
+      "purchaseRevenue": "45826.000012000004",
+      "newUsers": "4097",
+      "totalUsers": "6283",
+      "cr_pct": 0.2088,
+      "rev_per_session": 2.59
+    },
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": "17459",
+      "transactions": "19",
+      "purchaseRevenue": "21197.000006",
+      "newUsers": "6579",
+      "totalUsers": "9588",
+      "cr_pct": 0.1088,
+      "rev_per_session": 1.21
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": "10547",
+      "transactions": "30",
+      "purchaseRevenue": "13675.000019000005",
+      "newUsers": "1731",
+      "totalUsers": "8662",
+      "cr_pct": 0.2844,
+      "rev_per_session": 1.3
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": "4926",
+      "transactions": "8",
+      "purchaseRevenue": "6756.0000059999993",
+      "newUsers": "1655",
+      "totalUsers": "3424",
+      "cr_pct": 0.1624,
+      "rev_per_session": 1.37
+    },
+    {
+      "sessionDefaultChannelGroup": "Display",
+      "sessions": "4675",
+      "transactions": "8",
+      "purchaseRevenue": "8622.999999",
+      "newUsers": "949",
+      "totalUsers": "2439",
+      "cr_pct": 0.1711,
+      "rev_per_session": 1.84
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessions": "4600",
+      "transactions": "14",
+      "purchaseRevenue": "11114.000003",
+      "newUsers": "1337",
+      "totalUsers": "2697",
+      "cr_pct": 0.3043,
+      "rev_per_session": 2.42
+    },
+    {
+      "sessionDefaultChannelGroup": "SMS",
+      "sessions": "1710",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "newUsers": "414",
+      "totalUsers": "540",
+      "cr_pct": 0.0,
+      "rev_per_session": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": "1094",
+      "transactions": "4",
+      "purchaseRevenue": "1822",
+      "newUsers": "301",
+      "totalUsers": "437",
+      "cr_pct": 0.3656,
+      "rev_per_session": 1.67
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Shopping",
+      "sessions": "102",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "newUsers": "37",
+      "totalUsers": "79",
+      "cr_pct": 0.0,
+      "rev_per_session": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Video",
+      "sessions": "44",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "newUsers": "20",
+      "totalUsers": "13",
+      "cr_pct": 0.0,
+      "rev_per_session": 0.0
+    }
+  ],
+  "totals_yoy": {
+    "sessions": "438646",
+    "totalUsers": "128086",
+    "newUsers": "29856",
+    "transactions": "1495",
+    "ecommercePurchases": "1515",
+    "purchaseRevenue": "1856701.0000750003",
+    "engagementRate": "0.64114798721520316"
+  },
+  "channels_yoy": [
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": "141985",
+      "transactions": "538",
+      "purchaseRevenue": "681297.000006",
+      "cr_pct": 0.3789
+    },
+    {
+      "sessionDefaultChannelGroup": "Cross-network",
+      "sessions": "84140",
+      "transactions": "186",
+      "purchaseRevenue": "226983.00001999998",
+      "cr_pct": 0.2211
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessions": "58884",
+      "transactions": "171",
+      "purchaseRevenue": "209787.000044",
+      "cr_pct": 0.2904
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Social",
+      "sessions": "51659",
+      "transactions": "82",
+      "purchaseRevenue": "84298.00001",
+      "cr_pct": 0.1587
+    },
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": "32297",
+      "transactions": "212",
+      "purchaseRevenue": "270127.999999",
+      "cr_pct": 0.6564
+    },
+    {
+      "sessionDefaultChannelGroup": "Email",
+      "sessions": "30609",
+      "transactions": "159",
+      "purchaseRevenue": "207226.999994",
+      "cr_pct": 0.5195
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": "20635",
+      "transactions": "66",
+      "purchaseRevenue": "73629.999978999986",
+      "cr_pct": 0.3198
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": "14989",
+      "transactions": "37",
+      "purchaseRevenue": "48371.000003",
+      "cr_pct": 0.2468
+    },
+    {
+      "sessionDefaultChannelGroup": "Display",
+      "sessions": "8811",
+      "transactions": "16",
+      "purchaseRevenue": "18735.999996",
+      "cr_pct": 0.1816
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": "3393",
+      "transactions": "19",
+      "purchaseRevenue": "25658.999997",
+      "cr_pct": 0.56
+    },
+    {
+      "sessionDefaultChannelGroup": "SMS",
+      "sessions": "2428",
+      "transactions": "8",
+      "purchaseRevenue": "9866.000006",
+      "cr_pct": 0.3295
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Video",
+      "sessions": "266",
+      "transactions": "1",
+      "purchaseRevenue": "718.999999",
+      "cr_pct": 0.3759
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Shopping",
+      "sessions": "162",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "cr_pct": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Video",
+      "sessions": "137",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "cr_pct": 0.0
+    },
+    {
+      "sessionDefaultChannelGroup": "Mobile Push Notifications",
+      "sessions": "118",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "cr_pct": 0.0
+    }
+  ],
+  "devices_yoy": [
+    {
+      "deviceCategory": "mobile",
+      "sessions": "318860",
+      "transactions": "919",
+      "purchaseRevenue": "1140067.000024",
+      "cr_transactions": 0.2882
+    },
+    {
+      "deviceCategory": "desktop",
+      "sessions": "120419",
+      "transactions": "561",
+      "purchaseRevenue": "694196.0000329999",
+      "cr_transactions": 0.4659
+    },
+    {
+      "deviceCategory": "tablet",
+      "sessions": "8090",
+      "transactions": "15",
+      "purchaseRevenue": "22438.000007000002",
+      "cr_transactions": 0.1854
+    },
+    {
+      "deviceCategory": "smart tv",
+      "sessions": "1",
+      "transactions": "0",
+      "purchaseRevenue": "0",
+      "cr_transactions": 0.0
+    }
+  ],
+  "daily_yoy": [
+    {
+      "date": "20250310",
+      "sessions": "14014",
+      "transactions": "47",
+      "purchaseRevenue": "55368.000014000005"
+    },
+    {
+      "date": "20250311",
+      "sessions": "15018",
+      "transactions": "74",
+      "purchaseRevenue": "107169.000004"
+    },
+    {
+      "date": "20250312",
+      "sessions": "14933",
+      "transactions": "27",
+      "purchaseRevenue": "25233.000004999998"
+    },
+    {
+      "date": "20250313",
+      "sessions": "14808",
+      "transactions": "57",
+      "purchaseRevenue": "67268.999993"
+    },
+    {
+      "date": "20250314",
+      "sessions": "16064",
+      "transactions": "125",
+      "purchaseRevenue": "187792.999974"
+    },
+    {
+      "date": "20250315",
+      "sessions": "15023",
+      "transactions": "51",
+      "purchaseRevenue": "55329.000005"
+    },
+    {
+      "date": "20250316",
+      "sessions": "17434",
+      "transactions": "72",
+      "purchaseRevenue": "95529.999997999985"
+    },
+    {
+      "date": "20250317",
+      "sessions": "16001",
+      "transactions": "21",
+      "purchaseRevenue": "17148.000008"
+    },
+    {
+      "date": "20250318",
+      "sessions": "15202",
+      "transactions": "33",
+      "purchaseRevenue": "39968.999999"
+    },
+    {
+      "date": "20250319",
+      "sessions": "13293",
+      "transactions": "53",
+      "purchaseRevenue": "63687.000004"
+    },
+    {
+      "date": "20250320",
+      "sessions": "14511",
+      "transactions": "52",
+      "purchaseRevenue": "69875.999998"
+    },
+    {
+      "date": "20250321",
+      "sessions": "13840",
+      "transactions": "30",
+      "purchaseRevenue": "37921.999998"
+    },
+    {
+      "date": "20250322",
+      "sessions": "13671",
+      "transactions": "36",
+      "purchaseRevenue": "42491.999997"
+    },
+    {
+      "date": "20250323",
+      "sessions": "15258",
+      "transactions": "42",
+      "purchaseRevenue": "52141.00001"
+    },
+    {
+      "date": "20250324",
+      "sessions": "13623",
+      "transactions": "20",
+      "purchaseRevenue": "23235.000004999998"
+    },
+    {
+      "date": "20250325",
+      "sessions": "14996",
+      "transactions": "31",
+      "purchaseRevenue": "30125.999987"
+    },
+    {
+      "date": "20250326",
+      "sessions": "19026",
+      "transactions": "113",
+      "purchaseRevenue": "145822.00000499998"
+    },
+    {
+      "date": "20250327",
+      "sessions": "14525",
+      "transactions": "75",
+      "purchaseRevenue": "94360.000011"
+    },
+    {
+      "date": "20250328",
+      "sessions": "13054",
+      "transactions": "38",
+      "purchaseRevenue": "38969.000008"
+    },
+    {
+      "date": "20250329",
+      "sessions": "12811",
+      "transactions": "47",
+      "purchaseRevenue": "59120.000014"
+    },
+    {
+      "date": "20250330",
+      "sessions": "15701",
+      "transactions": "71",
+      "purchaseRevenue": "92319.000011"
+    },
+    {
+      "date": "20250331",
+      "sessions": "13116",
+      "transactions": "110",
+      "purchaseRevenue": "138935.000014"
+    },
+    {
+      "date": "20250401",
+      "sessions": "15370",
+      "transactions": "24",
+      "purchaseRevenue": "28359.000006000002"
+    },
+    {
+      "date": "20250402",
+      "sessions": "13083",
+      "transactions": "41",
+      "purchaseRevenue": "45709.999995000006"
+    },
+    {
+      "date": "20250403",
+      "sessions": "13823",
+      "transactions": "19",
+      "purchaseRevenue": "25172.000005"
+    },
+    {
+      "date": "20250404",
+      "sessions": "13103",
+      "transactions": "22",
+      "purchaseRevenue": "26855.000001"
+    },
+    {
+      "date": "20250405",
+      "sessions": "12887",
+      "transactions": "23",
+      "purchaseRevenue": "33707.999994"
+    },
+    {
+      "date": "20250406",
+      "sessions": "14339",
+      "transactions": "18",
+      "purchaseRevenue": "16769.999985000002"
+    },
+    {
+      "date": "20250407",
+      "sessions": "13926",
+      "transactions": "26",
+      "purchaseRevenue": "28085.000003"
+    },
+    {
+      "date": "20250408",
+      "sessions": "12966",
+      "transactions": "15",
+      "purchaseRevenue": "12306"
+    },
+    {
+      "date": "20250409",
+      "sessions": "15961",
+      "transactions": "82",
+      "purchaseRevenue": "99924.000005000009"
+    }
+  ],
+  "products_yoy": [
+    {
+      "itemId": "09009-32",
+      "itemName": "Beżowy płaszcz trencz z paskiem Marie",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1836",
+      "itemsPurchased": "11",
+      "itemRevenue": "26389.000003"
+    },
+    {
+      "itemId": "08847-19",
+      "itemName": "Czarny bawełniany trencz z paskiem",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1904",
+      "itemsPurchased": "9",
+      "itemRevenue": "23391.000003"
+    },
+    {
+      "itemId": "10322-11",
+      "itemName": "Białe buty sportowe",
+      "itemCategory": "Buty i torby",
+      "itemsViewed": "1818",
+      "itemsPurchased": "23",
+      "itemRevenue": "20676.999997"
+    },
+    {
+      "itemId": "10048-12",
+      "itemName": "Szara kurtka z jedwabiem doubleface",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "2037",
+      "itemsPurchased": "7",
+      "itemRevenue": "20293.000003"
+    },
+    {
+      "itemId": "08844-97",
+      "itemName": "Jeansy z szeroką nogawką",
+      "itemCategory": "Odzież",
+      "itemsViewed": "3396",
+      "itemsPurchased": "22",
+      "itemRevenue": "19777.999995000002"
+    },
+    {
+      "itemId": "",
+      "itemName": "Czarny płaszcz z paskiem z suri alpaką",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "0",
+      "itemsPurchased": "5",
+      "itemRevenue": "17494.999997"
+    },
+    {
+      "itemId": "08970-22",
+      "itemName": "Wełniany płaszcz z paskiem z suri alpaką",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "3215",
+      "itemsPurchased": "7",
+      "itemRevenue": "17493.000005"
+    },
+    {
+      "itemId": "08842-97",
+      "itemName": "Niebieskie jeansy barrel",
+      "itemCategory": "Odzież",
+      "itemsViewed": "2915",
+      "itemsPurchased": "19",
+      "itemRevenue": "17081.000012"
+    },
+    {
+      "itemId": "08928-12",
+      "itemName": "Wełniane spodnie z szeroką nogawką",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1229",
+      "itemsPurchased": "12",
+      "itemRevenue": "16788"
+    },
+    {
+      "itemId": "",
+      "itemName": "Granatowe szerokie spodnie z mankietami",
+      "itemCategory": "Odzież",
+      "itemsViewed": "0",
+      "itemsPurchased": "25",
+      "itemRevenue": "16225.000001"
+    },
+    {
+      "itemId": "08833-20",
+      "itemName": "Biała krótka kurtka z puchem naturalnym",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1826",
+      "itemsPurchased": "13",
+      "itemRevenue": "15586.999997"
+    },
+    {
+      "itemId": "08832-23",
+      "itemName": "Beżowa kurtka puchowa z kapturem",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "2757",
+      "itemsPurchased": "13",
+      "itemRevenue": "15586.999984999999"
+    },
+    {
+      "itemId": "08850-36",
+      "itemName": "Brązowa kurtka z pagonami",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "2923",
+      "itemsPurchased": "7",
+      "itemRevenue": "15393.000004"
+    },
+    {
+      "itemId": "08989-20",
+      "itemName": "Biały trencz z jedwabiem",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1428",
+      "itemsPurchased": "5",
+      "itemRevenue": "14995.000005999998"
+    },
+    {
+      "itemId": "08849-14",
+      "itemName": "Szary wełniany trencz z paskiem",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1545",
+      "itemsPurchased": "4",
+      "itemRevenue": "13196.000002"
+    },
+    {
+      "itemId": "08840-11",
+      "itemName": "Białe jeansy z szeroką nogawką",
+      "itemCategory": "Odzież",
+      "itemsViewed": "2087",
+      "itemsPurchased": "14",
+      "itemRevenue": "12586.000001"
+    },
+    {
+      "itemId": "08545-32",
+      "itemName": "Camelowy płaszcz dwurzędowy z suri alpaką",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1152",
+      "itemsPurchased": "5",
+      "itemRevenue": "12494.999998"
+    },
+    {
+      "itemId": "08992-95",
+      "itemName": "Koszula w paski",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1868",
+      "itemsPurchased": "11",
+      "itemRevenue": "12088.999996999999"
+    },
+    {
+      "itemId": "08830-21",
+      "itemName": "Beżowy płaszcz doubleface z wełną wielbłądzią i jedwabiem",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1301",
+      "itemsPurchased": "3",
+      "itemRevenue": "11996.999999"
+    },
+    {
+      "itemId": "08973-12",
+      "itemName": "Szary wełniany żakiet w tenis",
+      "itemCategory": "Odzież",
+      "itemsViewed": "948",
+      "itemsPurchased": "5",
+      "itemRevenue": "10995"
+    },
+    {
+      "itemId": "08550-95",
+      "itemName": "Granatowy wełniany płaszcz z paskiem",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1339",
+      "itemsPurchased": "6",
+      "itemRevenue": "10794.000004"
+    },
+    {
+      "itemId": "08981-19",
+      "itemName": "Czarny kombinezon z jedwabiu",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1101",
+      "itemsPurchased": "5",
+      "itemRevenue": "9995.000001"
+    },
+    {
+      "itemId": "08600-19",
+      "itemName": "Czarna krótka kurtka z puchem naturalnym",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "641",
+      "itemsPurchased": "9",
+      "itemRevenue": "9891.000006"
+    },
+    {
+      "itemId": "08866-95",
+      "itemName": "Granatowa sukienka z dekoltem halter",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1133",
+      "itemsPurchased": "14",
+      "itemRevenue": "9786.000009"
+    },
+    {
+      "itemId": "10047-40",
+      "itemName": "Bluzka z jedwabiem",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1709",
+      "itemsPurchased": "14",
+      "itemRevenue": "9786.000004"
+    },
+    {
+      "itemId": "08887-1V",
+      "itemName": "T-shirt w paski z jedwabiem",
+      "itemCategory": "Odzież",
+      "itemsViewed": "1440",
+      "itemsPurchased": "14",
+      "itemRevenue": "9785.999999"
+    },
+    {
+      "itemId": "08586-20",
+      "itemName": "Biały wełniany płaszcz dwurzędowy",
+      "itemCategory": "Płaszcze i kurtki",
+      "itemsViewed": "1050",
+      "itemsPurchased": "5",
+      "itemRevenue": "9245.000001"
+    },
+    {
+      "itemId": "10337-36",
+      "itemName": "Brązowa pleciona torba shopper",
+      "itemCategory": "Buty i torby",
+      "itemsViewed": "1633",
+      "itemsPurchased": "4",
+      "itemRevenue": "9196"
+    },
+    {
+      "itemId": "10011-00",
+      "itemName": "Apaszka z wełną i jedwabiem",
+      "itemCategory": "Akcesoria",
+      "itemsViewed": "2713",
+      "itemsPurchased": "13",
+      "itemRevenue": "9087.000012"
+    },
+    {
+      "itemId": "",
+      "itemName": "Czarny żakiet z wełną do garnituru",
+      "itemCategory": "Odzież",
+      "itemsViewed": "0",
+      "itemsPurchased": "9",
+      "itemRevenue": "8991"
+    }
+  ],
+  "yoy_delta": {
+    "sessions_now": "330296",
+    "sessions_yoy": "438646",
+    "sessions_delta_pct": -24.7,
+    "transactions_now": "427",
+    "transactions_yoy": "1495",
+    "transactions_delta_pct": -71.4,
+    "revenue_now": "529914.00002499984",
+    "revenue_yoy": "1856701.0000750003",
+    "revenue_delta_pct": -71.5,
+    "aov_now": 1241.02,
+    "aov_yoy": 1241.94
+  },
+  "meta": {
+    "property_id": "326801658",
+    "period_current": {
+      "start": "2026-03-09",
+      "end": "2026-04-08"
+    },
+    "period_yoy": {
+      "start": "2025-03-10",
+      "end": "2025-04-09"
+    },
+    "fetched_at": "2026-04-09"
+  }
+}
